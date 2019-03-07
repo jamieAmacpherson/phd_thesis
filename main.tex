@@ -1,0 +1,127 @@
+\documentclass[a4,11pt]{report}
+\usepackage[T1]{fontenc}
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{red}{|}\hsp}{0pt}{\Huge\bfseries}
+\usepackage[left=40mm,right=20mm,top=35mm,bottom=30mm]{geometry}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\lhead{J.A.S MACPHERSON}
+%\rhead{\chaptername}
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+%
+% Packages
+\usepackage{chicago}
+\usepackage{epstopdf}
+\usepackage{graphicx}
+\usepackage{floatrow}
+\usepackage{xhfill}
+\usepackage{booktabs}
+\usepackage{adjustbox}
+\usepackage[font={small,it}]{caption}
+\usepackage{subcaption}
+\usepackage[hidelinks]{hyperref}
+%\usepackage{amsmath}
+\usepackage[fleqn]{amsmath}
+\newtheorem{theorem}{Theorem}
+\usepackage{siunitx}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{varwidth}
+\usepackage{epigraph}	
+\usepackage[superscript,nomove]{cite}
+\usepackage{hyperref}
+\usepackage{rotating}
+%\usepackage[nottoc,numbib]{tocbibind}
+
+%% code listings
+\usepackage{listings}
+\usepackage[most]{tcolorbox}
+\usepackage{inconsolata}
+
+\newtcblisting[auto counter]{sexylisting}[2][]{sharp corners, 
+    fonttitle=\bfseries, colframe=gray, listing only, 
+    listing options={basicstyle=\ttfamily}, 
+    title=Listing \thetcbcounter: #2, #1}
+
+%% courier font in table
+\newenvironment{tttabular}[1]%
+{\ttfamily \begin{tabular}{#1}}%
+{\end{tabular}}
+
+%
+%
+%\linespread{1.5}
+\usepackage{setspace}
+\doublespacing
+\usepackage{sectsty}
+\allsectionsfont{\singlespacing}
+\newcommand{\angstrom}{\mbox{\normalfont\AA}}
+\DeclareGraphicsExtensions{.png,.pdf}
+\graphicspath{ {/Users/macphej/jm.phd/jm.thesis/figures/ch1/} {/Users/macphej/jm.phd/jm.thesis/figures/ch4/}  {/Users/macphej/jm.phd/jm.thesis/figures/} {/Users/macphej/jm.phd/jm.thesis/figures/ch5/} {/Users/macphej/jm.phd/jm.thesis/figures/ch6/} {/Users/macphej/jm.phd/jm.thesis/figures/} {/Users/macphej/jm.phd/jm.thesis/figures/ch5/} {/Users/macphej/jm.phd/jm.thesis/figures/ch7/} {/Users/macphej/jm.phd/jm.thesis/figures/discussion/} {/Users/macphej/jm.phd/jm.thesis/figures/ch2/}}
+\begin{document}
+
+\newcolumntype{M}{>{\begin{varwidth}{4cm}}l<{\end{varwidth}}}
+
+% the front matter
+\begin{singlespace}
+
+\include{title_page}
+%\newpage\null\newpage
+\end{singlespace}
+
+\pagenumbering{arabic}
+
+
+\include{abstract}
+
+\include{acknowledgements}
+
+
+\begin{singlespace}
+\include{contents}
+\end{singlespace}
+%\newpage\null\thispagestyle{empty}\newpage
+
+%\include{abstract}
+
+\include{list_of_fig}
+
+%\pagenumbering{arabic}
+\rhead{CHAPTER \thechapter}
+
+\include{introduction}
+%\newpage\null\thispagestyle{empty}\newpage
+
+\include{methods}
+%\newpage\null\thispagestyle{empty}\newpage
+
+\include{chapt4}
+%\newpage\null\thispagestyle{empty}\newpage
+
+\include{chapt5}
+%\newpage\null\thispagestyle{empty}\newpage
+
+\include{chapt6}
+%\newpage\null\thispagestyle{empty}\newpage
+
+\include{chapt7}
+%\newpage\null\thispagestyle{empty}\newpage
+
+\include{discussion}
+%\newpage\null\thispagestyle{empty}\newpage
+
+%\include{future}
+
+\rhead{BIBLIOGRAPHY}
+\bibliographystyle{naturemag}
+\bibliography{references} 
+
+
+%\include{supplementary}                    
+
+\end{document}

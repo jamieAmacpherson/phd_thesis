@@ -1,0 +1,107 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Enzyme catalysts are required to sustain cellular life}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{The evolutionary emergence of biological catalysts}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Metabolic homeostasis is maintained by allosteric regulation}{section.1.1}% 4
+\BOOKMARK [1][-]{section.1.2}{Metabolite-autonomous allosteric regulation of pyruvate kinase}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.2.1}{Evidence for the involvement of PKM2 regulation in supporting pro-tumourigenic growth}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.2}{PKM2 protein structure}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.3}{Kinetics of ligand binding and regulation}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.4}{Concurrent regulation of PKM2 activity by multiple ligands}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.5}{Regulation of PKM2 structure and oligomerisation}{section.1.2}% 10
+\BOOKMARK [1][-]{section.1.3}{Investigating the role of protein dynamics in allosteric regulation}{chapter.1}% 11
+\BOOKMARK [2][-]{subsection.1.3.1}{Enzyme regulation can involve structural or vibrational motions}{section.1.3}% 12
+\BOOKMARK [2][-]{subsection.1.3.2}{Allostery is an ensemble phenomenon}{section.1.3}% 13
+\BOOKMARK [2][-]{subsection.1.3.3}{Identification of allosteric pathways from molecular dynamics simulations}{section.1.3}% 14
+\BOOKMARK [1][-]{section.1.4}{Summary of research questions and the contribution of this thesis}{chapter.1}% 15
+\BOOKMARK [0][-]{chapter.2}{Theoretical, computational and experimental methods}{}% 16
+\BOOKMARK [1][-]{section.2.1}{Theoretical principles of molecular dynamics simulations}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.1.1}{The Hamiltonian of a classical mechanical system}{section.2.1}% 18
+\BOOKMARK [2][-]{subsection.2.1.2}{The force calculation and integrating the equations of motion}{section.2.1}% 19
+\BOOKMARK [2][-]{subsection.2.1.3}{Molecular dynamics in various ensembles}{section.2.1}% 20
+\BOOKMARK [2][-]{subsection.2.1.4}{The functional form of the potential energy}{section.2.1}% 21
+\BOOKMARK [1][-]{section.2.2}{Parameters used for molecular dynamics simulations of PKM2}{chapter.2}% 22
+\BOOKMARK [2][-]{subsection.2.2.1}{Molecular dynamics simulations in explicit solvent}{section.2.2}% 23
+\BOOKMARK [2][-]{subsection.2.2.2}{Molecular dynamics simulations in vacuo}{section.2.2}% 24
+\BOOKMARK [1][-]{section.2.3}{Protein biophysics}{chapter.2}% 25
+\BOOKMARK [2][-]{subsection.2.3.1}{Recombinant protein expression and purification}{section.2.3}% 26
+\BOOKMARK [2][-]{subsection.2.3.2}{Spectrophotometric assay to determine molar amounts of fructose 1,6-bisphosphate}{section.2.3}% 27
+\BOOKMARK [2][-]{subsection.2.3.3}{Measurement of PKM2 steady-state enzyme kinetics}{section.2.3}% 28
+\BOOKMARK [2][-]{subsection.2.3.4}{Analysis of the steady-state kinetics of PKM2 enzyme activity inhibition by Phe}{section.2.3}% 29
+\BOOKMARK [2][-]{subsection.2.3.5}{Measurement of the allosteric coupling co-efficient}{section.2.3}% 30
+\BOOKMARK [2][-]{subsection.2.3.6}{Circular dichroism spectroscopy}{section.2.3}% 31
+\BOOKMARK [2][-]{subsection.2.3.7}{Measurements of FBP binding to PKM2}{section.2.3}% 32
+\BOOKMARK [2][-]{subsection.2.3.8}{Microscale thermophoresis measurements of phenylalanine and serine binding}{section.2.3}% 33
+\BOOKMARK [1][-]{section.2.4}{Native mass spectrometry}{chapter.2}% 34
+\BOOKMARK [2][-]{subsection.2.4.1}{Mass-deconvolution of native spectra}{section.2.4}% 35
+\BOOKMARK [2][-]{subsection.2.4.2}{Ion mobility mass spectrometry}{section.2.4}% 36
+\BOOKMARK [1][-]{section.2.5}{Measurement of metabolite concentrations in human cell lines}{chapter.2}% 37
+\BOOKMARK [2][-]{subsection.2.5.1}{Liquid chromatography-mass spectrometry \(LC-MS\) detection of metabolites}{section.2.5}% 38
+\BOOKMARK [2][-]{subsection.2.5.2}{Metabolite extraction and cell volume calculations}{section.2.5}% 39
+\BOOKMARK [1][-]{section.2.6}{Absolute quantitation of intracellular PKM2 amounts using targeted proteomics}{chapter.2}% 40
+\BOOKMARK [2][-]{subsection.2.6.1}{Trypsin digestion}{section.2.6}% 41
+\BOOKMARK [2][-]{subsection.2.6.2}{Analysis of peptides by LC-tandem MS \(LC-MS/MS}{section.2.6}% 42
+\BOOKMARK [0][-]{chapter.3}{Enzyme kinetics and ligand binding biophysical studies reveal a combined role for multiple allosteric ligands in the regulation of PKM2.}{}% 43
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 44
+\BOOKMARK [1][-]{section.3.2}{Characterising the kinetics of FBP binding to and activation of PKM2}{chapter.3}% 45
+\BOOKMARK [2][-]{subsection.3.2.1}{FBP binds to PKM2 with nanomolar affinity}{section.3.2}% 46
+\BOOKMARK [2][-]{subsection.3.2.2}{Technical note: the protein concentration determines the error associated with the KD of PKM2-FBP binding}{section.3.2}% 47
+\BOOKMARK [2][-]{subsection.3.2.3}{FBP binding leads to an increase in the affinity of PKM2 for its substrate}{section.3.2}% 48
+\BOOKMARK [2][-]{subsection.3.2.4}{A phosphotyrosine peptide binds competitively with FBP to PKM2}{section.3.2}% 49
+\BOOKMARK [1][-]{section.3.3}{FBP binding to PKM2 induces inter-protomeric cooperativity}{chapter.3}% 50
+\BOOKMARK [2][-]{subsection.3.3.1}{Titrating PKM2\(WT\) with the catalytically-dead PKM2\(R72A\) results in a non-linear decay in enzyme activity}{section.3.3}% 51
+\BOOKMARK [2][-]{subsection.3.3.2}{A numerical framework for modelling oligomeric enzyme cooperativity}{section.3.3}% 52
+\BOOKMARK [2][-]{subsection.3.3.3}{FBP binding induced inter-subunit cooperativity under conditions of limiting substrate concentrations}{section.3.3}% 53
+\BOOKMARK [1][-]{section.3.4}{FBP and amino acids combinatorially regulate PKM2 activity}{chapter.3}% 54
+\BOOKMARK [2][-]{subsection.3.4.1}{Phe and Ser per se are K-type modulators of PKM2 catalytic activity}{section.3.4}% 55
+\BOOKMARK [2][-]{subsection.3.4.2}{The mechanism of phenylalanine inhibition of PKM2 catalysis is distinct depending on FBP binding.}{section.3.4}% 56
+\BOOKMARK [2][-]{subsection.3.4.3}{Ligand-induced changes in affinity cannot explain the changed phenylalanine-inhibition of PKM2 by FBP}{section.3.4}% 57
+\BOOKMARK [1][-]{section.3.5}{Simultaneous regulation of PKM2 by multiple ligands is relevant for enzyme regulation in cells}{chapter.3}% 58
+\BOOKMARK [2][-]{subsection.3.5.1}{Intracellular FBP binding to PKM2 is constitutive whereas Phe and Ser bind reversibly}{section.3.5}% 59
+\BOOKMARK [2][-]{subsection.3.5.2}{The addition of exogenous FBP does not change PKM2 activity in HCT116 cell lysates}{section.3.5}% 60
+\BOOKMARK [2][-]{subsection.3.5.3}{High milli-molar phospho-peptide concentrations are required to reversibly displace FBP binding}{section.3.5}% 61
+\BOOKMARK [1][-]{section.3.6}{Conclusion}{chapter.3}% 62
+\BOOKMARK [0][-]{chapter.4}{Native mass spectrometry reveals the structural basis of distinct ligand modes of action.}{}% 63
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 64
+\BOOKMARK [1][-]{section.4.2}{FBP binding regulates oligomerisation of PKM2}{chapter.4}% 65
+\BOOKMARK [2][-]{subsection.4.2.1}{PKM2 forms a mixture of oligomeric states}{section.4.2}% 66
+\BOOKMARK [2][-]{subsection.4.2.2}{PKM2 dimers form stably about the A-A' interface}{section.4.2}% 67
+\BOOKMARK [2][-]{subsection.4.2.3}{FBP induces PKM2 tetramerisation}{section.4.2}% 68
+\BOOKMARK [2][-]{subsection.4.2.4}{PKM2Apo \040tetramers are formed from a mixture of apo and holo protein}{section.4.2}% 69
+\BOOKMARK [2][-]{subsection.4.2.5}{FBP binding induces subtle changes to the shape of tetrameric PKM2}{section.4.2}% 70
+\BOOKMARK [1][-]{section.4.3}{Inhibitory amino acids have distinct effects on tetramerisation depending on whether FBP is bound}{chapter.4}% 71
+\BOOKMARK [2][-]{subsection.4.3.1}{Phe addition does not disrupt FBP-induced PKM2 tetramerisation}{section.4.3}% 72
+\BOOKMARK [2][-]{subsection.4.3.2}{Phe and FBP synergistically promote PKM2 tetramerisation}{section.4.3}% 73
+\BOOKMARK [2][-]{subsection.4.3.3}{Analytical evidence for simultaneous binding of FBP and Phe to PKM2}{section.4.3}% 74
+\BOOKMARK [2][-]{subsection.4.3.4}{Phe partially reverses PKM2 to an 'apo-like' conformation}{section.4.3}% 75
+\BOOKMARK [1][-]{section.4.4}{Conclusion}{chapter.4}% 76
+\BOOKMARK [0][-]{chapter.5}{Molecular dynamics simulations predict hub residues involved in the allosteric transition of PKM2.}{}% 77
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 78
+\BOOKMARK [1][-]{section.5.2}{Molecular dynamics simulations of PKM2 capture ligand-induced conformational changes}{chapter.5}% 79
+\BOOKMARK [2][-]{subsection.5.2.1}{An integration time step of 2 fs appropriately conserves the energy in monomeric PKM2 simulations}{section.5.2}% 80
+\BOOKMARK [2][-]{subsection.5.2.2}{FBP binding causes PKM2 monomers to sample two distinct conformational states}{section.5.2}% 81
+\BOOKMARK [2][-]{subsection.5.2.3}{B-domain closure traps highly resident water molecules in the active site}{section.5.2}% 82
+\BOOKMARK [2][-]{subsection.5.2.4}{B-domain dynamics is correlated with structural changes to catalytic residues in the active site}{section.5.2}% 83
+\BOOKMARK [2][-]{subsection.5.2.5}{Comparative dynamics between tetrameric and monomeric PKM2}{section.5.2}% 84
+\BOOKMARK [2][-]{subsection.5.2.6}{The configurational entropy of PKM2 does not change upon allosteric ligand binding}{section.5.2}% 85
+\BOOKMARK [1][-]{section.5.3}{Identification of PKM2 allosteric hub residues using a novel software AlloHubMat}{chapter.5}% 86
+\BOOKMARK [2][-]{subsection.5.3.1}{Explicit identification of sub-states from MD simulations using information theory}{section.5.3}% 87
+\BOOKMARK [2][-]{subsection.5.3.2}{PKM2 sub-states cluster according to the liganded state of the MD simulation}{section.5.3}% 88
+\BOOKMARK [2][-]{subsection.5.3.3}{A disperse network of hub residues are predicted to propagate FBP-induced activation of PKM2}{section.5.3}% 89
+\BOOKMARK [2][-]{subsection.5.3.4}{Design of allosteric hub mutants \(AlloHubMs\)}{section.5.3}% 90
+\BOOKMARK [1][-]{section.5.4}{Conclusion}{chapter.5}% 91
+\BOOKMARK [0][-]{chapter.6}{Allosteric mutants reveal distinct ligand pathways that combinatorially regulate PKM2.}{}% 92
+\BOOKMARK [1][-]{section.6.1}{Introduction}{chapter.6}% 93
+\BOOKMARK [1][-]{section.6.2}{Biophysical characterisation of the AlloHubMuts}{chapter.6}% 94
+\BOOKMARK [2][-]{subsection.6.2.1}{AlloHubMuts have the same secondary structure content as PKM2\(WT\)}{section.6.2}% 95
+\BOOKMARK [2][-]{subsection.6.2.2}{AlloHubMuts at either the A-A' or C-C' interfaces show distinct thermodynamics properties}{section.6.2}% 96
+\BOOKMARK [2][-]{subsection.6.2.3}{R489L reduces the binding affinity to FBP}{section.6.2}% 97
+\BOOKMARK [1][-]{section.6.3}{Characterisation of the functional response of AlloHubMuts to allosteric ligands}{chapter.6}% 98
+\BOOKMARK [2][-]{subsection.6.3.1}{Several AlloHubMuts attenuate the allosteric coupling between the FBP pocket and the active site}{section.6.3}% 99
+\BOOKMARK [2][-]{subsection.6.3.2}{AlloHub residues A327 and C358 mediate multi-ligand allosteric coupling}{section.6.3}% 100
+\BOOKMARK [2][-]{subsection.6.3.3}{Native spectra of AlloHubMut uncouples oligomerisation from allosteric activation}{section.6.3}% 101
+\BOOKMARK [1][-]{section.6.4}{Conclusion}{chapter.6}% 102
+\BOOKMARK [0][-]{chapter.7}{Discussion}{}% 103
+\BOOKMARK [1][-]{section.7.1}{PKM2 is concurrently regulated by multiple allosteric ligands in a range of cellular conditions}{chapter.7}% 104
+\BOOKMARK [1][-]{section.7.2}{FBP and Phe regulate PKM2 through a functional cross-talk}{chapter.7}% 105
+\BOOKMARK [1][-]{section.7.3}{AlloHubMat reveals residues that mediate the cross-talk between FBP- and Phe-induced allosteric regulation}{chapter.7}% 106
+\BOOKMARK [1][-]{section.7.4}{Conclusion}{chapter.7}% 107

@@ -1,0 +1,14 @@
+## Load ligBind package
+library('ligBind');
+
+## Initialise the test data
+test_data = dat;
+
+## Calculate the binding affinity of the protein-receptor
+## interaction.
+test_data_fit = ligBind::fit.binding(bindingdat = test_data,
+		kd_pred = 3000,
+		prot_conc = 5);
+
+## Visualise the binding curve
+ligBind::plt.binding.curve(test_data_fit);

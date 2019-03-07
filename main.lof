@@ -1,0 +1,62 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Biological catalysts.}}{15}{figure.caption.6}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Allosteric regulation of glucose metabolism.}}{21}{figure.caption.7}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces A cartoon representation of the three-dimensional structure of PKM2.}}{28}{figure.caption.8}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces A linear sequence diagram of PKM2.}}{29}{figure.caption.9}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces The energetic landscape of protein folding and native protein dynamics.}}{40}{figure.caption.11}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Typical rate coefficients as a function of temperature.}}{42}{figure.caption.12}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces The M32K25 structural alphabet as a fragment-based representation of protein structure and dynamics.}}{52}{figure.caption.16}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Time line of historical discoveries in the fields of protein dynamics and allostery, and PKM2 biology and biophysics.}}{58}{figure.caption.17}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Examples of bonded interaction potential energies for arbitrarily selected atom pairs.}}{71}{figure.caption.21}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The catalytic mechanism of the pyruvate kinase-catalyzed conversion of phosphoenolpyruvate and ADP to pyruvate and ATP.}}{80}{figure.caption.26}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Visualisation of a ligand-receptor binding curve fitted using the \textit {ligBind} package.}}{87}{figure.caption.27}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces FBP binds to PKM2 with nano-molar affinity.}}{102}{figure.caption.33}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Simulated protein-ligand binding data show that the measured binding affinity is over-estimated when high concentrations of protein are used in the experiment.}}{105}{figure.caption.34}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Addition of FBP results in an increase in the substrate affinity of PKM2 for phosphoenolpyruvate.}}{107}{figure.caption.35}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Fluor-M2tide competes with FBP for binding to PKM2.}}{110}{figure.caption.38}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces A mixture of wild-type and catalytically-dead PKM2 has a non-linear decay in activity.}}{114}{figure.caption.43}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces FBP binding results in inter-subunit cooperativity as defined in a numerical model.}}{118}{figure.caption.44}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces FBP and amino acids have distinct combined roles in regulating PKM2 activity.}}{120}{figure.caption.45}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Phenylalanine inhibition follows one of two distinct mechanisms, depending on the presence of FBP.}}{123}{figure.caption.49}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Amino acids and FBP do not reciprocally affect binding.}}{127}{figure.caption.51}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Cellular concentrations of PKM2 allosteric effectors reveal a physiological role for multi-ligand regulation.}}{130}{figure.caption.54}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces PKM2 activity from HCT116 lysates is not further activated by addition of exogenous FBP.}}{132}{figure.caption.57}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Intracellular concentrations of phosphoenolpyruvate are predicted to be constitutively limiting for PKM2 binding.}}{133}{figure.caption.58}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Milli-molar concentrations of phosphorylated peptide is required to out-compete FBP binding in cells.}}{135}{figure.caption.59}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The concentration-dependence of PKM2 oligomerisation.}}{140}{figure.caption.60}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Ion mobility measurements reveal that PKM2 dimers are stable about the A-A' interface.}}{144}{figure.caption.64}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces FBP addition induces a dose-dependent tetramerisation of PKM2.}}{146}{figure.caption.65}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces The mass-deconvolved spectrum of $PKM2^{apo \ast }$ reveals a mixture of \textit {apo} and \textit {holo} species.}}{148}{figure.caption.68}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces FBP binding changes the global collision cross section of PKM2 tetramers.}}{149}{figure.caption.69}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Phe binding does not disrupt FBP-induced PKM2 tetramerisation.}}{151}{figure.caption.70}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces FBP and Phe synergistically promote PKM2 tetramerisation.}}{152}{figure.caption.71}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces FBP and Phe can simultaneously bind to PKM2.}}{154}{figure.caption.72}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Phe partially reverses FBP-induced conformational changes.}}{155}{figure.caption.73}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Energy fluctuations calculated for different integration time- steps.}}{160}{figure.caption.74}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Conformational plasticity and essential dynamics of monomeric PKM2.}}{164}{figure.caption.77}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Conformational equilibrium of FBP-induced cap closure from a 500 ns MD simulation.}}{166}{figure.caption.78}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Water residence time at the active site of mPKM2-FBP.}}{167}{figure.caption.79}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Active site residue H78 adopts a distinct side-chain conformation depending on the liganded state of the protein.}}{169}{figure.caption.80}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Charged-charged interactions at the A-A' interface prevent lateral B-domain closure in tetrameric PKM2.}}{174}{figure.caption.81}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Allosteric ligands do not change the configurational entropy of PKM2.}}{176}{figure.caption.82}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Schematic of the AlloHubMat and software flowchart.}}{179}{figure.caption.84}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Conformational sub-states are identified from the geometric progression of the mutual information matrix.}}{182}{figure.caption.85}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces PKM2 correlated motions cluster according to the liganded state of the simulation.}}{184}{figure.caption.86}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces The sub-state mutual information matrix is log-normally distributed.}}{186}{figure.caption.87}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Hub residues are predicted to propagate energy transfer along allosteric pathways.}}{189}{figure.caption.88}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Design of Allosteric Hub Mutants (AlloHubMuts).}}{191}{figure.caption.89}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces An integrated computational and experimental strategy for identifying residues which transmit allosteric information between a binding pocket and the active site of a protein. }}{194}{figure.caption.90}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Far-UV circular dichroism spectra of AlloHubMuts suggest no change in secondary structure content.}}{196}{figure.caption.91}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Thermal unfolding spectra of the AlloHubMuts fitted to a two-phase unfolding model.}}{200}{figure.caption.93}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces The thermal stability of PKM2(K305Q) and PKM2(R489L) is increased upon FBP addition.}}{201}{figure.caption.94}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces The AlloHubMuts have a nano molar affinity for FBP with the exception of PKM2(R489L).}}{203}{figure.caption.96}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces The AlloHubMuts perturb either FBP-active site coupling or FBP-Phe coupling.}}{207}{figure.caption.97}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Native spectra of the AlloHubMuts reveal a complex relationship between allosteric activation and oligomerisation.}}{211}{figure.caption.99}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Proposed model of PKM2 regulation by amino acids.}}{219}{figure.caption.100}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces The location and function of the AlloHubMuts.}}{227}{figure.caption.101}

@@ -1,0 +1,1557 @@
+\begin{thebibliography}{100}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{Jeong:2000aa}
+\bibinfo{author}{Jeong, H.}, \bibinfo{author}{Tombor, B.},
+  \bibinfo{author}{Albert, R.}, \bibinfo{author}{Oltvai, Z.~N.} \&
+  \bibinfo{author}{Barab{\'a}si, A.~L.}
+\newblock \bibinfo{title}{The large-scale organization of metabolic networks}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{407}},
+  \bibinfo{pages}{651--4} (\bibinfo{year}{2000}).
+
+\bibitem{oparin1965origin}
+\bibinfo{author}{Oparin, A.~I.}
+\newblock \emph{\bibinfo{title}{The Origin of Life: Translation with
+  Annotations by Sergius Morgulis}} (\bibinfo{publisher}{Dover Publications},
+  \bibinfo{year}{1965}).
+
+\bibitem{Keller:2014aa}
+\bibinfo{author}{Keller, M.~A.}, \bibinfo{author}{Turchyn, A.~V.} \&
+  \bibinfo{author}{Ralser, M.}
+\newblock \bibinfo{title}{Non-enzymatic glycolysis and pentose phosphate
+  pathway-like reactions in a plausible archean ocean}.
+\newblock \emph{\bibinfo{journal}{Mol Syst Biol}}
+  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{725} (\bibinfo{year}{2014}).
+
+\bibitem{Ralser:2014aa}
+\bibinfo{author}{Ralser, M.}
+\newblock \bibinfo{title}{The {RNA} world and the origin of metabolic enzymes}.
+\newblock \emph{\bibinfo{journal}{Biochem Soc Trans}}
+  \textbf{\bibinfo{volume}{42}}, \bibinfo{pages}{985--8}
+  (\bibinfo{year}{2014}).
+
+\bibitem{Konhauser:2011aa}
+\bibinfo{author}{Konhauser, K.~O.} \emph{et~al.}
+\newblock \bibinfo{title}{Aerobic bacterial pyrite oxidation and acid rock
+  drainage during the great oxidation event}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{478}},
+  \bibinfo{pages}{369--73} (\bibinfo{year}{2011}).
+
+\bibitem{Orgel:2004aa}
+\bibinfo{author}{Orgel, L.~E.}
+\newblock \bibinfo{title}{Prebiotic chemistry and the origin of the {RNA}
+  world}.
+\newblock \emph{\bibinfo{journal}{Crit Rev Biochem Mol Biol}}
+  \textbf{\bibinfo{volume}{39}}, \bibinfo{pages}{99--123}
+  (\bibinfo{year}{2004}).
+
+\bibitem{Lincoln:2009aa}
+\bibinfo{author}{Lincoln, T.~A.} \& \bibinfo{author}{Joyce, G.~F.}
+\newblock \bibinfo{title}{Self-sustained replication of an {RNA} enzyme}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{323}},
+  \bibinfo{pages}{1229--32} (\bibinfo{year}{2009}).
+
+\bibitem{Fusz:2005aa}
+\bibinfo{author}{Fusz, S.}, \bibinfo{author}{Eisenf{\"u}hr, A.},
+  \bibinfo{author}{Srivatsan, S.~G.}, \bibinfo{author}{Heckel, A.} \&
+  \bibinfo{author}{Famulok, M.}
+\newblock \bibinfo{title}{A ribozyme for the aldol reaction}.
+\newblock \emph{\bibinfo{journal}{Chem Biol}} \textbf{\bibinfo{volume}{12}},
+  \bibinfo{pages}{941--50} (\bibinfo{year}{2005}).
+
+\bibitem{aisen1980iron}
+\bibinfo{author}{Aisen, P.} \& \bibinfo{author}{Listowsky, I.}
+\newblock \bibinfo{title}{Iron transport and storage proteins}.
+\newblock \emph{\bibinfo{journal}{Annu Rev Biochem}}
+  \textbf{\bibinfo{volume}{49}}, \bibinfo{pages}{357--393}
+  (\bibinfo{year}{1980}).
+
+\bibitem{Tanner:2018aa}
+\bibinfo{author}{Tanner, L.~B.} \emph{et~al.}
+\newblock \bibinfo{title}{Four key steps control glycolytic flux in mammalian
+  cells}.
+\newblock \emph{\bibinfo{journal}{Cell Syst}}  (\bibinfo{year}{2018}).
+
+\bibitem{Schwanhausser:2011aa}
+\bibinfo{author}{Schwanh{\"a}usser, B.} \emph{et~al.}
+\newblock \bibinfo{title}{Global quantification of mammalian gene expression
+  control}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{473}},
+  \bibinfo{pages}{337--42} (\bibinfo{year}{2011}).
+
+\bibitem{Novick:1950aa}
+\bibinfo{author}{Novick, A.} \& \bibinfo{author}{Szilard, L.}
+\newblock \bibinfo{title}{Experiments with the chemostat on the rates of amino
+  acid synthesis in bacteria.}
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci USA}}
+  \textbf{\bibinfo{volume}{36}}, \bibinfo{pages}{708--719}
+  (\bibinfo{year}{1950}).
+
+\bibitem{Goyal:2010aa}
+\bibinfo{author}{Goyal, S.}, \bibinfo{author}{Yuan, J.}, \bibinfo{author}{Chen,
+  T.}, \bibinfo{author}{Rabinowitz, J.~D.} \& \bibinfo{author}{Wingreen, N.~S.}
+\newblock \bibinfo{title}{Achieving optimal growth through product feedback
+  inhibition in metabolism}.
+\newblock \emph{\bibinfo{journal}{PLoS Comput Biol}}
+  \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{100--122}
+  (\bibinfo{year}{2010}).
+
+\bibitem{Chance:1964aa}
+\bibinfo{author}{Chance, B.}, \bibinfo{author}{Hess, B.} \&
+  \bibinfo{author}{Betz, A.}
+\newblock \bibinfo{title}{{DPNH} oscillations in a cell-free extract of {S.}
+  carlsbergensis}.
+\newblock \emph{\bibinfo{journal}{Biochem Biophys Res Commun}}
+  \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{182--7}
+  (\bibinfo{year}{1964}).
+
+\bibitem{Das:1991aa}
+\bibinfo{author}{Das, J.} \& \bibinfo{author}{Busse, H.~G.}
+\newblock \bibinfo{title}{Analysis of the dynamics of relaxation type
+  oscillation in glycolysis of yeast extracts}.
+\newblock \emph{\bibinfo{journal}{Biophys J}} \textbf{\bibinfo{volume}{60}},
+  \bibinfo{pages}{369--79} (\bibinfo{year}{1991}).
+
+\bibitem{Hung:2011aa}
+\bibinfo{author}{Hung, Y.~P.}, \bibinfo{author}{Albeck, J.~G.},
+  \bibinfo{author}{Tantama, M.} \& \bibinfo{author}{Yellen, G.}
+\newblock \bibinfo{title}{Imaging cytosolic nadh-nad(+) redox state with a
+  genetically encoded fluorescent biosensor}.
+\newblock \emph{\bibinfo{journal}{Cell Metab}} \textbf{\bibinfo{volume}{14}},
+  \bibinfo{pages}{545--54} (\bibinfo{year}{2011}).
+
+\bibitem{Anastasiou:2012aa}
+\bibinfo{author}{Anastasiou, D.} \emph{et~al.}
+\newblock \bibinfo{title}{Pyruvate {K}inase {M2} activators promote tetramer
+  formation and suppress tumorigenesis}.
+\newblock \emph{\bibinfo{journal}{Nat Chem Biol}} \textbf{\bibinfo{volume}{8}},
+  \bibinfo{pages}{839--47} (\bibinfo{year}{2012}).
+
+\bibitem{Sparmann:1973aa}
+\bibinfo{author}{Sparmann, G.}, \bibinfo{author}{Schulz, J.} \&
+  \bibinfo{author}{Hofmann, E.}
+\newblock \bibinfo{title}{Effects of l-alanine and fructose (1,6-diphosphate)
+  on pyruvate kinase from ehrlich ascites tumour cells}.
+\newblock \emph{\bibinfo{journal}{FEBS Lett}} \textbf{\bibinfo{volume}{36}},
+  \bibinfo{pages}{305--8} (\bibinfo{year}{1973}).
+
+\bibitem{Chaneton:2012aa}
+\bibinfo{author}{Chaneton, B.} \emph{et~al.}
+\newblock \bibinfo{title}{Serine is a natural ligand and allosteric activator
+  of pyruvate kinase {M2}}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{491}},
+  \bibinfo{pages}{458--62} (\bibinfo{year}{2012}).
+
+\bibitem{Yuan:2018aa}
+\bibinfo{author}{Yuan, M.} \emph{et~al.}
+\newblock \bibinfo{title}{An allostatic mechanism for m2 pyruvate kinase as an
+  amino-acid sensor}.
+\newblock \emph{\bibinfo{journal}{Biochem J}} \textbf{\bibinfo{volume}{475}},
+  \bibinfo{pages}{1821--1837} (\bibinfo{year}{2018}).
+
+\bibitem{Keller:2012aa}
+\bibinfo{author}{Keller, K.~E.}, \bibinfo{author}{Tan, I.~S.} \&
+  \bibinfo{author}{Lee, Y.-S.}
+\newblock \bibinfo{title}{{SAICAR} stimulates pyruvate kinase isoform {M2} and
+  promotes cancer cell survival in glucose-limited conditions}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{338}},
+  \bibinfo{pages}{1069--72} (\bibinfo{year}{2012}).
+
+\bibitem{Morgan:2013aa}
+\bibinfo{author}{Morgan, H.~P.} \emph{et~al.}
+\newblock \bibinfo{title}{M2 pyruvate kinase provides a mechanism for nutrient
+  sensing and regulation of cell proliferation}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci USA}}
+  \textbf{\bibinfo{volume}{110}}, \bibinfo{pages}{5881--6}
+  (\bibinfo{year}{2013}).
+
+\bibitem{Christofk:2008aa}
+\bibinfo{author}{Christofk, H.~R.}, \bibinfo{author}{Vander~Heiden, M.~G.},
+  \bibinfo{author}{Wu, N.}, \bibinfo{author}{Asara, J.~M.} \&
+  \bibinfo{author}{Cantley, L.~C.}
+\newblock \bibinfo{title}{Pyruvate kinase {M2} is a phosphotyrosine-binding
+  protein}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{452}},
+  \bibinfo{pages}{181--6} (\bibinfo{year}{2008}).
+
+\bibitem{Kato:1989aa}
+\bibinfo{author}{Kato, H.}, \bibinfo{author}{Fukuda, T.},
+  \bibinfo{author}{Parkison, C.}, \bibinfo{author}{McPhie, P.} \&
+  \bibinfo{author}{Cheng, S.~Y.}
+\newblock \bibinfo{title}{Cytosolic thyroid hormone-binding protein is a
+  monomer of pyruvate kinase}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci USA}}
+  \textbf{\bibinfo{volume}{86}}, \bibinfo{pages}{7861--5}
+  (\bibinfo{year}{1989}).
+
+\bibitem{Dayton:2016ab}
+\bibinfo{author}{Dayton, T.~L.}, \bibinfo{author}{Jacks, T.} \&
+  \bibinfo{author}{Vander~Heiden, M.~G.}
+\newblock \bibinfo{title}{{PKM2}, cancer metabolism, and the road ahead}.
+\newblock \emph{\bibinfo{journal}{EMBO Rep}} \textbf{\bibinfo{volume}{17}},
+  \bibinfo{pages}{1721--1730} (\bibinfo{year}{2016}).
+
+\bibitem{Christofk:2008ab}
+\bibinfo{author}{Christofk, H.~R.} \emph{et~al.}
+\newblock \bibinfo{title}{The m2 splice isoform of pyruvate kinase is important
+  for cancer metabolism and tumour growth}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{452}},
+  \bibinfo{pages}{230--3} (\bibinfo{year}{2008}).
+
+\bibitem{Luftner:2000aa}
+\bibinfo{author}{L{\"u}ftner, D.} \emph{et~al.}
+\newblock \bibinfo{title}{Tumor type m2 pyruvate kinase expression in advanced
+  breast cancer}.
+\newblock \emph{\bibinfo{journal}{Anticancer Res}}
+  \textbf{\bibinfo{volume}{20}}, \bibinfo{pages}{5077--82}
+  (\bibinfo{year}{2000}).
+
+\bibitem{Lu:2016ac}
+\bibinfo{author}{Lu, W.} \emph{et~al.}
+\newblock \bibinfo{title}{Up-regulation of {{PKM2}} promote malignancy and
+  related to adverse prognostic risk factor in human gallbladder cancer}.
+\newblock \emph{\bibinfo{journal}{Sci Rep}} \textbf{\bibinfo{volume}{6}},
+  \bibinfo{pages}{26351} (\bibinfo{year}{2016}).
+
+\bibitem{Chen:2011aa}
+\bibinfo{author}{Chen, J.} \emph{et~al.}
+\newblock \bibinfo{title}{Shikonin and its analogs inhibit cancer cell
+  glycolysis by targeting tumor pyruvate kinase-m2}.
+\newblock \emph{\bibinfo{journal}{Oncogene}} \textbf{\bibinfo{volume}{30}},
+  \bibinfo{pages}{4297--306} (\bibinfo{year}{2011}).
+
+\bibitem{Vander-Heiden:2010aa}
+\bibinfo{author}{Vander~Heiden, M.~G.} \emph{et~al.}
+\newblock \bibinfo{title}{Identification of small molecule inhibitors of
+  pyruvate kinase {M2}}.
+\newblock \emph{\bibinfo{journal}{Biochem Pharmacol}}
+  \textbf{\bibinfo{volume}{79}}, \bibinfo{pages}{1118--24}
+  (\bibinfo{year}{2010}).
+
+\bibitem{Vander-Heiden:2011aa}
+\bibinfo{author}{Vander~Heiden, M.~G.} \emph{et~al.}
+\newblock \bibinfo{title}{Metabolic pathway alterations that support cell
+  proliferation}.
+\newblock \emph{\bibinfo{journal}{Cold Spring Harb Symp Quant Biol}}
+  \textbf{\bibinfo{volume}{76}}, \bibinfo{pages}{325--34}
+  (\bibinfo{year}{2011}).
+
+\bibitem{Vander-Heiden:2009aa}
+\bibinfo{author}{Vander~Heiden, M.~G.}, \bibinfo{author}{Cantley, L.~C.} \&
+  \bibinfo{author}{Thompson, C.~B.}
+\newblock \bibinfo{title}{Understanding the warburg effect: the metabolic
+  requirements of cell proliferation}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{324}},
+  \bibinfo{pages}{1029--33} (\bibinfo{year}{2009}).
+
+\bibitem{Mazurek:2011aa}
+\bibinfo{author}{Mazurek, S.}
+\newblock \bibinfo{title}{Pyruvate kinase type {M2}: a key regulator of the
+  metabolic budget system in tumor cells}.
+\newblock \emph{\bibinfo{journal}{Int J Biochem Cell Biol}}
+  \textbf{\bibinfo{volume}{43}}, \bibinfo{pages}{969--80}
+  (\bibinfo{year}{2011}).
+
+\bibitem{Israelsen:2015aa}
+\bibinfo{author}{Israelsen, W.~J.} \& \bibinfo{author}{Vander~Heiden, M.~G.}
+\newblock \bibinfo{title}{Pyruvate kinase: Function, regulation and role in
+  cancer}.
+\newblock \emph{\bibinfo{journal}{Semin Cell Dev Biol}}
+  \textbf{\bibinfo{volume}{43}}, \bibinfo{pages}{43--51}
+  (\bibinfo{year}{2015}).
+
+\bibitem{Jiang:2012aa}
+\bibinfo{author}{Jiang, L.} \& \bibinfo{author}{Deberardinis, R.~J.}
+\newblock \bibinfo{title}{Cancer metabolism: When more is less}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{489}},
+  \bibinfo{pages}{511--2} (\bibinfo{year}{2012}).
+
+\bibitem{Halliwell:2007aa}
+\bibinfo{author}{Halliwell, B.}
+\newblock \bibinfo{title}{Oxidative stress and cancer: have we moved forward?}
+\newblock \emph{\bibinfo{journal}{Biochem J}} \textbf{\bibinfo{volume}{401}},
+  \bibinfo{pages}{1--11} (\bibinfo{year}{2007}).
+
+\bibitem{Reuter:2010aa}
+\bibinfo{author}{Reuter, S.}, \bibinfo{author}{Gupta, S.~C.},
+  \bibinfo{author}{Chaturvedi, M.~M.} \& \bibinfo{author}{Aggarwal, B.~B.}
+\newblock \bibinfo{title}{Oxidative stress, inflammation, and cancer: how are
+  they linked?}
+\newblock \emph{\bibinfo{journal}{Free Radic Biol Med}}
+  \textbf{\bibinfo{volume}{49}}, \bibinfo{pages}{1603--16}
+  (\bibinfo{year}{2010}).
+
+\bibitem{Schafer:2009aa}
+\bibinfo{author}{Schafer, Z.~T.} \emph{et~al.}
+\newblock \bibinfo{title}{Antioxidant and oncogene rescue of metabolic defects
+  caused by loss of matrix attachment}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{461}},
+  \bibinfo{pages}{109--13} (\bibinfo{year}{2009}).
+
+\bibitem{Wellen:2010aa}
+\bibinfo{author}{Wellen, K.~E.} \& \bibinfo{author}{Thompson, C.~B.}
+\newblock \bibinfo{title}{Cellular metabolic stress: considering how cells
+  respond to nutrient excess}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{40}},
+  \bibinfo{pages}{323--32} (\bibinfo{year}{2010}).
+
+\bibitem{Anastasiou:2011aa}
+\bibinfo{author}{Anastasiou, D.} \emph{et~al.}
+\newblock \bibinfo{title}{Inhibition of pyruvate kinase m2 by reactive oxygen
+  species contributes to cellular antioxidant responses}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{334}},
+  \bibinfo{pages}{1278--83} (\bibinfo{year}{2011}).
+
+\bibitem{Yang:2016ab}
+\bibinfo{author}{Yang, M.} \& \bibinfo{author}{Vousden, K.~H.}
+\newblock \bibinfo{title}{Serine and one-carbon metabolism in cancer}.
+\newblock \emph{\bibinfo{journal}{Nat Rev Cancer}}
+  \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{650--62}
+  (\bibinfo{year}{2016}).
+
+\bibitem{Maddocks:2013aa}
+\bibinfo{author}{Maddocks, O. D.~K.} \emph{et~al.}
+\newblock \bibinfo{title}{Serine starvation induces stress and p53-dependent
+  metabolic remodelling in cancer cells}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{493}},
+  \bibinfo{pages}{542--6} (\bibinfo{year}{2013}).
+
+\bibitem{Bartkova:2005aa}
+\bibinfo{author}{Bartkova, J.} \emph{et~al.}
+\newblock \bibinfo{title}{{DNA} damage response as a candidate anti-cancer
+  barrier in early human tumorigenesis}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{434}},
+  \bibinfo{pages}{864--70} (\bibinfo{year}{2005}).
+
+\bibitem{Kim:2015aa}
+\bibinfo{author}{Kim, D.} \emph{et~al.}
+\newblock \bibinfo{title}{{SHMT2} drives glioma cell survival in ischaemia but
+  imposes a dependence on glycine clearance}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{520}},
+  \bibinfo{pages}{363--7} (\bibinfo{year}{2015}).
+
+\bibitem{Israelsen:2013aa}
+\bibinfo{author}{Israelsen, W.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{{{PKM2}} isoform-specific deletion reveals a
+  differential requirement for pyruvate kinase in tumor cells}.
+\newblock \emph{\bibinfo{journal}{Cell}} \textbf{\bibinfo{volume}{155}},
+  \bibinfo{pages}{397--409} (\bibinfo{year}{2013}).
+
+\bibitem{Lunt:2015aa}
+\bibinfo{author}{Lunt, S.~Y.} \emph{et~al.}
+\newblock \bibinfo{title}{Pyruvate kinase isoform expression alters nucleotide
+  synthesis to impact cell proliferation}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{57}},
+  \bibinfo{pages}{95--107} (\bibinfo{year}{2015}).
+
+\bibitem{Boxer:2010aa}
+\bibinfo{author}{Boxer, M.~B.} \emph{et~al.}
+\newblock \bibinfo{title}{Evaluation of substituted n,n'-diarylsulfonamides as
+  activators of the tumor cell specific m2 isoform of pyruvate kinase}.
+\newblock \emph{\bibinfo{journal}{J Med Chem}} \textbf{\bibinfo{volume}{53}},
+  \bibinfo{pages}{1048--55} (\bibinfo{year}{2010}).
+
+\bibitem{Jiang:2010aa}
+\bibinfo{author}{Jiang, J.~K.} \emph{et~al.}
+\newblock \bibinfo{title}{Evaluation of
+  thieno[3,2-b]pyrrole[3,2-d]pyridazinones as activators of the tumor cell
+  specific m2 isoform of pyruvate kinase}.
+\newblock \emph{\bibinfo{journal}{Bioorg Med Chem Lett}}
+  \textbf{\bibinfo{volume}{20}}, \bibinfo{pages}{3387--93}
+  (\bibinfo{year}{2010}).
+
+\bibitem{Walsh:2011aa}
+\bibinfo{author}{Walsh, M.~J.} \emph{et~al.}
+\newblock
+  \bibinfo{title}{2-oxo-n-aryl-1,2,3,4-tetrahydroquinoline-6-sulfonamides as
+  activators of the tumor cell specific m2 isoform of pyruvate kinase}.
+\newblock \emph{\bibinfo{journal}{Bioorg Med Chem Lett}}
+  \textbf{\bibinfo{volume}{21}}, \bibinfo{pages}{6322--7}
+  (\bibinfo{year}{2011}).
+
+\bibitem{Kung:2012aa}
+\bibinfo{author}{Kung, C.} \emph{et~al.}
+\newblock \bibinfo{title}{Small molecule activation of {{PKM2}} in cancer cells
+  induces serine auxotrophy}.
+\newblock \emph{\bibinfo{journal}{Chem Biol}} \textbf{\bibinfo{volume}{19}},
+  \bibinfo{pages}{1187--98} (\bibinfo{year}{2012}).
+
+\bibitem{Dayton:2016aa}
+\bibinfo{author}{Dayton, T.~L.} \emph{et~al.}
+\newblock \bibinfo{title}{Germline loss of {{PKM2}} promotes metabolic distress
+  and hepatocellular carcinoma}.
+\newblock \emph{\bibinfo{journal}{Genes Dev}} \textbf{\bibinfo{volume}{30}},
+  \bibinfo{pages}{1020--33} (\bibinfo{year}{2016}).
+
+\bibitem{Morita:2018aa}
+\bibinfo{author}{Morita, M.} \emph{et~al.}
+\newblock \bibinfo{title}{Pkm1 confers metabolic advantages and promotes
+  cell-autonomous tumor cell growth}.
+\newblock \emph{\bibinfo{journal}{Cancer Cell}} \textbf{\bibinfo{volume}{33}},
+  \bibinfo{pages}{355--367} (\bibinfo{year}{2018}).
+
+\bibitem{Allen:2018aa}
+\bibinfo{author}{Allen, A.~E.} \& \bibinfo{author}{Locasale, J.~W.}
+\newblock \bibinfo{title}{Glucose metabolism in cancer: The saga of pyruvate
+  kinase continues}.
+\newblock \emph{\bibinfo{journal}{Cancer Cell}} \textbf{\bibinfo{volume}{33}},
+  \bibinfo{pages}{337--339} (\bibinfo{year}{2018}).
+
+\bibitem{Larsen:1998aa}
+\bibinfo{author}{Larsen, T.~M.}, \bibinfo{author}{Benning, M.~M.},
+  \bibinfo{author}{Rayment, I.} \& \bibinfo{author}{Reed, G.~H.}
+\newblock \bibinfo{title}{Structure of the bis({Mg$^{2+}$})-{ATP}-oxalate
+  complex of the rabbit muscle pyruvate kinase at 2.1 {$\angstrom$} resolution:
+  {ATP} binding over a barrel}.
+\newblock \emph{\bibinfo{journal}{Biochemistry}} \textbf{\bibinfo{volume}{37}},
+  \bibinfo{pages}{6247--55} (\bibinfo{year}{1998}).
+
+\bibitem{Dombrauckas:2005aa}
+\bibinfo{author}{Dombrauckas, J.~D.}, \bibinfo{author}{Santarsiero, B.~D.} \&
+  \bibinfo{author}{Mesecar, A.~D.}
+\newblock \bibinfo{title}{Structural basis for tumor pyruvate kinase m2
+  allosteric regulation and catalysis}.
+\newblock \emph{\bibinfo{journal}{Biochemistry}} \textbf{\bibinfo{volume}{44}},
+  \bibinfo{pages}{9417--29} (\bibinfo{year}{2005}).
+
+\bibitem{Guo:2013aa}
+\bibinfo{author}{Guo, C.} \emph{et~al.}
+\newblock \bibinfo{title}{Discovery of
+  2-((1h-benzo[d]imidazol-1-yl)methyl)-4h-pyrido[1,2-a]pyrimidin-4-ones as
+  novel {PKM2} activators}.
+\newblock \emph{\bibinfo{journal}{Bioorg Med Chem Lett}}
+  \textbf{\bibinfo{volume}{23}}, \bibinfo{pages}{3358--63}
+  (\bibinfo{year}{2013}).
+
+\bibitem{Wang:2015aa}
+\bibinfo{author}{Wang, P.}, \bibinfo{author}{Sun, C.}, \bibinfo{author}{Zhu,
+  T.} \& \bibinfo{author}{Xu, Y.}
+\newblock \bibinfo{title}{Structural insight into mechanisms for dynamic
+  regulation of {PKM2}}.
+\newblock \emph{\bibinfo{journal}{Protein Cell}} \textbf{\bibinfo{volume}{6}},
+  \bibinfo{pages}{275--87} (\bibinfo{year}{2015}).
+
+\bibitem{Srivastava:2017aa}
+\bibinfo{author}{Srivastava, D.}, \bibinfo{author}{Razzaghi, M.},
+  \bibinfo{author}{Henzl, M.~T.} \& \bibinfo{author}{Dey, M.}
+\newblock \bibinfo{title}{Structural investigation of a dimeric variant of
+  pyruvate kinase muscle isoform 2}.
+\newblock \emph{\bibinfo{journal}{Biochemistry}} \textbf{\bibinfo{volume}{56}},
+  \bibinfo{pages}{6517--6520} (\bibinfo{year}{2017}).
+
+\bibitem{Ikeda:1998aa}
+\bibinfo{author}{Ikeda, Y.} \& \bibinfo{author}{Noguchi, T.}
+\newblock \bibinfo{title}{Allosteric regulation of pyruvate kinase m2 isozyme
+  involves a cysteine residue in the intersubunit contact}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{273}},
+  \bibinfo{pages}{12227--33} (\bibinfo{year}{1998}).
+
+\bibitem{Yacovan:2012aa}
+\bibinfo{author}{Yacovan, A.} \emph{et~al.}
+\newblock \bibinfo{title}{1-(sulfonyl)-5-(arylsulfonyl)indoline as activators
+  of the tumor cell specific m2 isoform of pyruvate kinase}.
+\newblock \emph{\bibinfo{journal}{Bioorg Med Chem Lett}}
+  \textbf{\bibinfo{volume}{22}}, \bibinfo{pages}{6460--8}
+  (\bibinfo{year}{2012}).
+
+\bibitem{Akhtar:2009aa}
+\bibinfo{author}{Akhtar, K.} \emph{et~al.}
+\newblock \bibinfo{title}{Differential behavior of missense mutations in the
+  intersubunit contact domain of the human pyruvate kinase m2 isozyme}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{284}},
+  \bibinfo{pages}{11971--81} (\bibinfo{year}{2009}).
+
+\bibitem{Yan:2016aa}
+\bibinfo{author}{Yan, M.} \emph{et~al.}
+\newblock \bibinfo{title}{Succinyl-5-aminoimidazole-4-carboxamide-1-ribose
+  5'-phosphate (saicar) activates pyruvate kinase isoform m2 ({PKM2}) in its
+  dimeric form}.
+\newblock \emph{\bibinfo{journal}{Biochemistry}} \textbf{\bibinfo{volume}{55}},
+  \bibinfo{pages}{4731--6} (\bibinfo{year}{2016}).
+
+\bibitem{Gavriilidou:2018aa}
+\bibinfo{author}{Gavriilidou, A. F.~M.} \emph{et~al.}
+\newblock \bibinfo{title}{Native mass spectrometry gives insight into the
+  allosteric binding mechanism of m2 pyruvate kinase to
+  fructose-1,6-bisphosphate}.
+\newblock \emph{\bibinfo{journal}{Biochemistry}} \textbf{\bibinfo{volume}{57}},
+  \bibinfo{pages}{1685--1689} (\bibinfo{year}{2018}).
+
+\bibitem{Eigenbrodt:1983aa}
+\bibinfo{author}{Eigenbrodt, E.}, \bibinfo{author}{Leib, S.},
+  \bibinfo{author}{Kr{\u a}mer, W.}, \bibinfo{author}{Friis, R.~R.} \&
+  \bibinfo{author}{Schoner, W.}
+\newblock \bibinfo{title}{Structural and kinetic differences between the m2
+  type pyruvate kinases from lung and various tumors}.
+\newblock \emph{\bibinfo{journal}{Biomed Biochim Acta}}
+  \textbf{\bibinfo{volume}{42}}, \bibinfo{pages}{S278--82}
+  (\bibinfo{year}{1983}).
+
+\bibitem{Ashizawa:1991aa}
+\bibinfo{author}{Ashizawa, K.}, \bibinfo{author}{McPhie, P.},
+  \bibinfo{author}{Lin, K.~H.} \& \bibinfo{author}{Cheng, S.~Y.}
+\newblock \bibinfo{title}{An in vitro novel mechanism of regulating the
+  activity of pyruvate kinase m2 by thyroid hormone and fructose 1,
+  6-bisphosphate}.
+\newblock \emph{\bibinfo{journal}{Biochemistry}} \textbf{\bibinfo{volume}{30}},
+  \bibinfo{pages}{7105--11} (\bibinfo{year}{1991}).
+
+\bibitem{Zhong:2017aa}
+\bibinfo{author}{Zhong, W.} \emph{et~al.}
+\newblock \bibinfo{title}{Allosteric pyruvate kinase-based "logic gate"
+  synergistically senses energy and sugar levels in mycobacterium
+  tuberculosis}.
+\newblock \emph{\bibinfo{journal}{Nat Commun}} \textbf{\bibinfo{volume}{8}},
+  \bibinfo{pages}{1986} (\bibinfo{year}{2017}).
+
+\bibitem{Yang:2016aa}
+\bibinfo{author}{Yang, J.} \emph{et~al.}
+\newblock \bibinfo{title}{Synergistic allosteric mechanism of
+  fructose-1,6-bisphosphate and serine for pyruvate kinase m2 via dynamics
+  fluctuation network analysis}.
+\newblock \emph{\bibinfo{journal}{J Chem Inf Model}}
+  \textbf{\bibinfo{volume}{56}}, \bibinfo{pages}{1184--1192}
+  (\bibinfo{year}{2016}).
+
+\bibitem{Xie:2016aa}
+\bibinfo{author}{Xie, J.}, \bibinfo{author}{Dai, C.} \& \bibinfo{author}{Hu,
+  X.}
+\newblock \bibinfo{title}{Evidence that does not support pyruvate kinase m2
+  ({PKM2})-catalyzed reaction as a rate-limiting step in cancer cell
+  glycolysis}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{291}},
+  \bibinfo{pages}{8987--99} (\bibinfo{year}{2016}).
+
+\bibitem{Shestov:2014aa}
+\bibinfo{author}{Shestov, A.~A.} \emph{et~al.}
+\newblock \bibinfo{title}{Quantitative determinants of aerobic glycolysis
+  identify flux through the enzyme gapdh as a limiting step}.
+\newblock \emph{\bibinfo{journal}{Elife}} \textbf{\bibinfo{volume}{3}}
+  (\bibinfo{year}{2014}).
+
+\bibitem{Hofmann:1975aa}
+\bibinfo{author}{Hofmann, E.} \emph{et~al.}
+\newblock \bibinfo{title}{Association-dissociation behavior of erythrocyte
+  phosphofructokinase and tumor pyruvate kinase}.
+\newblock \emph{\bibinfo{journal}{Adv Enzyme Regul}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{247--77}
+  (\bibinfo{year}{1975}).
+
+\bibitem{Ashizawa:1990aa}
+\bibinfo{author}{Ashizawa, K.}, \bibinfo{author}{Kato, H.},
+  \bibinfo{author}{McPhie, P.} \& \bibinfo{author}{Cheng, S.}
+\newblock \bibinfo{title}{Regulation of thyroid hormone binding to its
+  cytosolic binding protein by {L}-alpha-alanine}.
+\newblock \emph{\bibinfo{journal}{Biochem Biophys Res Commun}}
+  \textbf{\bibinfo{volume}{167}}, \bibinfo{pages}{587--92}
+  (\bibinfo{year}{1990}).
+
+\bibitem{Morgan:2010aa}
+\bibinfo{author}{Morgan, H.~P.} \emph{et~al.}
+\newblock \bibinfo{title}{Allosteric mechanism of pyruvate kinase from
+  leishmania mexicana uses a rock and lock model}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{285}},
+  \bibinfo{pages}{12892--8} (\bibinfo{year}{2010}).
+
+\bibitem{Morgan:2014aa}
+\bibinfo{author}{Morgan, H.~P.} \emph{et~al.}
+\newblock \bibinfo{title}{Structures of pyruvate kinases display evolutionarily
+  divergent allosteric strategies}.
+\newblock \emph{\bibinfo{journal}{R Soc Open Sci}}
+  \textbf{\bibinfo{volume}{1}}, \bibinfo{pages}{140120} (\bibinfo{year}{2014}).
+
+\bibitem{Naithani:2015aa}
+\bibinfo{author}{Naithani, A.}, \bibinfo{author}{Taylor, P.},
+  \bibinfo{author}{Erman, B.} \& \bibinfo{author}{Walkinshaw, M.~D.}
+\newblock \bibinfo{title}{A molecular dynamics study of allosteric transitions
+  in leishmania mexicana pyruvate kinase}.
+\newblock \emph{\bibinfo{journal}{Biophys J}} \textbf{\bibinfo{volume}{109}},
+  \bibinfo{pages}{1149--56} (\bibinfo{year}{2015}).
+
+\bibitem{Donovan:2016aa}
+\bibinfo{author}{Donovan, K.~A.} \emph{et~al.}
+\newblock \bibinfo{title}{Conformational dynamics and allostery in pyruvate
+  kinase}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{291}},
+  \bibinfo{pages}{9244--56} (\bibinfo{year}{2016}).
+
+\bibitem{Tang:2017aa}
+\bibinfo{author}{Tang, Q.} \& \bibinfo{author}{Fenton, A.~W.}
+\newblock \bibinfo{title}{Whole-protein alanine-scanning mutagenesis of
+  allostery: A large percentage of a protein can contribute to mechanism}.
+\newblock \emph{\bibinfo{journal}{Hum Mutat}} \textbf{\bibinfo{volume}{38}},
+  \bibinfo{pages}{1132--1143} (\bibinfo{year}{2017}).
+
+\bibitem{Gehrig:2017aa}
+\bibinfo{author}{Gehrig, S.} \emph{et~al.}
+\newblock \bibinfo{title}{An engineered photoswitchable mammalian pyruvate
+  kinase}.
+\newblock \emph{\bibinfo{journal}{FEBS J}} \textbf{\bibinfo{volume}{284}},
+  \bibinfo{pages}{2955--2980} (\bibinfo{year}{2017}).
+
+\bibitem{Wang:2017ab}
+\bibinfo{author}{Wang, F.} \emph{et~al.}
+\newblock \bibinfo{title}{{SIRT5} esuccinylates and activates pyruvate kinase
+  {M2} to block macrophage {IL-1$\beta$} production and to prevent
+  {DSS}-induced colitis in mice}.
+\newblock \emph{\bibinfo{journal}{Cell Rep}} \textbf{\bibinfo{volume}{19}},
+  \bibinfo{pages}{2331--2344} (\bibinfo{year}{2017}).
+
+\bibitem{Wang:2017aa}
+\bibinfo{author}{Wang, Y.} \emph{et~al.}
+\newblock \bibinfo{title}{O-glcnacylation destabilizes the active tetrameric
+  {PKM2} to promote the warburg effect}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci USA}}
+  \textbf{\bibinfo{volume}{114}}, \bibinfo{pages}{13732--13737}
+  (\bibinfo{year}{2017}).
+
+\bibitem{Qi:2017aa}
+\bibinfo{author}{Qi, W.} \emph{et~al.}
+\newblock \bibinfo{title}{Pyruvate kinase m2 activation may protect against the
+  progression of diabetic glomerular pathology and mitochondrial dysfunction}.
+\newblock \emph{\bibinfo{journal}{Nat Med}} \textbf{\bibinfo{volume}{23}},
+  \bibinfo{pages}{753--762} (\bibinfo{year}{2017}).
+
+\bibitem{Lim:2016aa}
+\bibinfo{author}{Lim, S.-O.} \emph{et~al.}
+\newblock \bibinfo{title}{{EGFR} signaling enhances aerobic glycolysis in
+  triple-negative breast cancer cells to promote tumor growth and immune
+  escape}.
+\newblock \emph{\bibinfo{journal}{Cancer Res}} \textbf{\bibinfo{volume}{76}},
+  \bibinfo{pages}{1284--96} (\bibinfo{year}{2016}).
+
+\bibitem{Hitosugi:2009aa}
+\bibinfo{author}{Hitosugi, T.} \emph{et~al.}
+\newblock \bibinfo{title}{Tyrosine phosphorylation inhibits {PKM2} to promote
+  the warburg effect and tumor growth}.
+\newblock \emph{\bibinfo{journal}{Sci Signal}} \textbf{\bibinfo{volume}{2}},
+  \bibinfo{pages}{40--73} (\bibinfo{year}{2009}).
+
+\bibitem{Macpherson:2017aa}
+\bibinfo{author}{Macpherson, J.~A.} \& \bibinfo{author}{Anastasiou, D.}
+\newblock \bibinfo{title}{Allosteric regulation of metabolism in cancer:
+  endogenous mechanisms and considerations for drug design}.
+\newblock \emph{\bibinfo{journal}{Curr Opin Biotechnol}}
+  \textbf{\bibinfo{volume}{48}}, \bibinfo{pages}{102--110}
+  (\bibinfo{year}{2017}).
+
+\bibitem{Keedy:2018aa}
+\bibinfo{author}{Keedy, D.~A.} \emph{et~al.}
+\newblock \bibinfo{title}{An expanded allosteric network in {PTP1B} by
+  multitemperature crystallography, fragment screening, and covalent
+  tethering}.
+\newblock \emph{\bibinfo{journal}{Elife}} \textbf{\bibinfo{volume}{7}}
+  (\bibinfo{year}{2018}).
+
+\bibitem{Bowman:2015aa}
+\bibinfo{author}{Bowman, G.~R.}, \bibinfo{author}{Bolin, E.~R.},
+  \bibinfo{author}{Hart, K.~M.}, \bibinfo{author}{Maguire, B.~C.} \&
+  \bibinfo{author}{Marqusee, S.}
+\newblock \bibinfo{title}{Discovery of multiple hidden allosteric sites by
+  combining markov state models and experiments}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci USA}}
+  \textbf{\bibinfo{volume}{112}}, \bibinfo{pages}{2734--9}
+  (\bibinfo{year}{2015}).
+
+\bibitem{Motlagh:2014aa}
+\bibinfo{author}{Motlagh, H.~N.}, \bibinfo{author}{Wrabl, J.~O.},
+  \bibinfo{author}{Li, J.} \& \bibinfo{author}{Hilser, V.~J.}
+\newblock \bibinfo{title}{The ensemble nature of allostery}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{508}},
+  \bibinfo{pages}{331--9} (\bibinfo{year}{2014}).
+
+\bibitem{Sol:2009aa}
+\bibinfo{author}{del Sol, A.}, \bibinfo{author}{Tsai, C.-J.},
+  \bibinfo{author}{Ma, B.} \& \bibinfo{author}{Nussinov, R.}
+\newblock \bibinfo{title}{The origin of allosteric functional modulation:
+  multiple pre-existing pathways}.
+\newblock \emph{\bibinfo{journal}{Structure}} \textbf{\bibinfo{volume}{17}},
+  \bibinfo{pages}{1042--50} (\bibinfo{year}{2009}).
+
+\bibitem{Alberding:1976aa}
+\bibinfo{author}{Alberding, N.} \emph{et~al.}
+\newblock \bibinfo{title}{Tunneling in ligand binding to heme proteins}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{192}},
+  \bibinfo{pages}{1002--4} (\bibinfo{year}{1976}).
+
+\bibitem{Austin:1973aa}
+\bibinfo{author}{Austin, R.~H.} \emph{et~al.}
+\newblock \bibinfo{title}{Dynamics of carbon monoxide binding by heme
+  proteins}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{181}},
+  \bibinfo{pages}{541--3} (\bibinfo{year}{1973}).
+
+\bibitem{Austin:1975aa}
+\bibinfo{author}{Austin, R.~H.}, \bibinfo{author}{Beeson, K.~W.},
+  \bibinfo{author}{Eisenstein, L.}, \bibinfo{author}{Frauenfelder, H.} \&
+  \bibinfo{author}{Gunsalus, I.~C.}
+\newblock \bibinfo{title}{Dynamics of ligand binding to myoglobin}.
+\newblock \emph{\bibinfo{journal}{Biochemistry}} \textbf{\bibinfo{volume}{14}},
+  \bibinfo{pages}{5355--73} (\bibinfo{year}{1975}).
+
+\bibitem{KENDREW:1960aa}
+\bibinfo{author}{KENDREW, J.~C.} \emph{et~al.}
+\newblock \bibinfo{title}{Structure of myoglobin: A three-dimensional fourier
+  synthesis at 2 a. resolution}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{185}},
+  \bibinfo{pages}{422--7} (\bibinfo{year}{1960}).
+
+\bibitem{Frauenfelder:1978aa}
+\bibinfo{author}{Frauenfelder, H.}
+\newblock \bibinfo{title}{Principles of ligand binding to heme proteins}.
+\newblock \emph{\bibinfo{journal}{Methods Enzymol}}
+  \textbf{\bibinfo{volume}{54}}, \bibinfo{pages}{506--32}
+  (\bibinfo{year}{1978}).
+
+\bibitem{Frauenfelder:2007aa}
+\bibinfo{author}{Frauenfelder, H.}, \bibinfo{author}{Fenimore, P.~W.} \&
+  \bibinfo{author}{Young, R.~D.}
+\newblock \bibinfo{title}{Protein dynamics and function: insights from the
+  energy landscape and solvent slaving}.
+\newblock \emph{\bibinfo{journal}{IUBMB Life}} \textbf{\bibinfo{volume}{59}},
+  \bibinfo{pages}{506--12} (\bibinfo{year}{2007}).
+
+\bibitem{Artymiuk:1979aa}
+\bibinfo{author}{Artymiuk, P.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{Crystallographic studies of the dynamic properties of
+  lysozyme}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{280}},
+  \bibinfo{pages}{563--8} (\bibinfo{year}{1979}).
+
+\bibitem{Frauenfelder:1979aa}
+\bibinfo{author}{Frauenfelder, H.}, \bibinfo{author}{Petsko, G.~A.} \&
+  \bibinfo{author}{Tsernoglou, D.}
+\newblock \bibinfo{title}{Temperature-dependent x-ray diffraction as a probe of
+  protein structural dynamics}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{280}},
+  \bibinfo{pages}{558--63} (\bibinfo{year}{1979}).
+
+\bibitem{CHANGEUX:1961aa}
+\bibinfo{author}{Changeux, J.~P.}
+\newblock \bibinfo{title}{The feedback control mechanisms of biosynthetic
+  {L}-threonine deaminase by {L}-isoleucine}.
+\newblock \emph{\bibinfo{journal}{Cold Spring Harb Symp Quant Biol}}
+  \textbf{\bibinfo{volume}{26}}, \bibinfo{pages}{313--8}
+  (\bibinfo{year}{1961}).
+
+\bibitem{MONOD:1963aa}
+\bibinfo{author}{Monod, J.}, \bibinfo{author}{Changeux, J.~P.} \&
+  \bibinfo{author}{Jacob, F.}
+\newblock \bibinfo{title}{Allosteric proteins and cellular control systems}.
+\newblock \emph{\bibinfo{journal}{J Mol Biol}} \textbf{\bibinfo{volume}{6}},
+  \bibinfo{pages}{306--29} (\bibinfo{year}{1963}).
+
+\bibitem{MONOD:1965aa}
+\bibinfo{author}{Monod, J.}, \bibinfo{author}{Wyman, J.} \&
+  \bibinfo{author}{Changeux, J.~P.}
+\newblock \bibinfo{title}{On the nature of allosteric transitions: a plausible
+  model}.
+\newblock \emph{\bibinfo{journal}{J Mol Biol}} \textbf{\bibinfo{volume}{12}},
+  \bibinfo{pages}{88--118} (\bibinfo{year}{1965}).
+
+\bibitem{Koshland:1966aa}
+\bibinfo{author}{Koshland, D.~E., Jr}, \bibinfo{author}{N{\'e}methy, G.} \&
+  \bibinfo{author}{Filmer, D.}
+\newblock \bibinfo{title}{Comparison of experimental binding data and
+  theoretical models in proteins containing subunits}.
+\newblock \emph{\bibinfo{journal}{Biochemistry}} \textbf{\bibinfo{volume}{5}},
+  \bibinfo{pages}{365--85} (\bibinfo{year}{1966}).
+
+\bibitem{Changeux:2013aa}
+\bibinfo{author}{Changeux, J.-P.}
+\newblock \bibinfo{title}{50 years of allosteric interactions: the twists and
+  turns of the models}.
+\newblock \emph{\bibinfo{journal}{Nat Rev Mol Cell Biol}}
+  \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{819--29}
+  (\bibinfo{year}{2013}).
+
+\bibitem{Cornish-Bowden:2014aa}
+\bibinfo{author}{Cornish-Bowden, A.}
+\newblock \bibinfo{title}{Understanding allosteric and cooperative interactions
+  in enzymes}.
+\newblock \emph{\bibinfo{journal}{FEBS J}} \textbf{\bibinfo{volume}{281}},
+  \bibinfo{pages}{621--32} (\bibinfo{year}{2014}).
+
+\bibitem{Cui:2008aa}
+\bibinfo{author}{Cui, Q.} \& \bibinfo{author}{Karplus, M.}
+\newblock \bibinfo{title}{Allostery and cooperativity revisited}.
+\newblock \emph{\bibinfo{journal}{Protein Sci}} \textbf{\bibinfo{volume}{17}},
+  \bibinfo{pages}{1295--307} (\bibinfo{year}{2008}).
+
+\bibitem{Perutz:1970aa}
+\bibinfo{author}{Perutz, M.~F.}
+\newblock \bibinfo{title}{Stereochemistry of cooperative effects in
+  haemoglobin}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{228}},
+  \bibinfo{pages}{726--39} (\bibinfo{year}{1970}).
+
+\bibitem{Karplus:2002aa}
+\bibinfo{author}{Karplus, M.} \& \bibinfo{author}{McCammon, J.~A.}
+\newblock \bibinfo{title}{Molecular dynamics simulations of biomolecules}.
+\newblock \emph{\bibinfo{journal}{Nat Struct Biol}}
+  \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{646--52}
+  (\bibinfo{year}{2002}).
+
+\bibitem{Gelin:1975aa}
+\bibinfo{author}{Gelin, B.~R.} \& \bibinfo{author}{Karplus, M.}
+\newblock \bibinfo{title}{Sidechain torsional potentials and motion of amino
+  acids in porteins: bovine pancreatic trypsin inhibitor}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci USA}}
+  \textbf{\bibinfo{volume}{72}}, \bibinfo{pages}{2002--6}
+  (\bibinfo{year}{1975}).
+
+\bibitem{Gelin:1977aa}
+\bibinfo{author}{Gelin, B.~R.} \& \bibinfo{author}{Karplus, M.}
+\newblock \bibinfo{title}{Mechanism of tertiary structural change in
+  hemoglobin}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci USA}}
+  \textbf{\bibinfo{volume}{74}}, \bibinfo{pages}{801--5}
+  (\bibinfo{year}{1977}).
+
+\bibitem{Rahman1964aa}
+\bibinfo{author}{Rahman, A.}
+\newblock \bibinfo{title}{Correlations in the motion of atoms in liquid argon}.
+\newblock \emph{\bibinfo{journal}{Physical Review}}
+  \textbf{\bibinfo{volume}{136}}, \bibinfo{pages}{A405} (\bibinfo{year}{1964}).
+
+\bibitem{Stillinger1974aa}
+\bibinfo{author}{Stillinger, F.~H.} \& \bibinfo{author}{Rahman, A.}
+\newblock \bibinfo{title}{Improved simulation of liquid water by molecular
+  dynamics}.
+\newblock \emph{\bibinfo{journal}{J Chem Phys}} \textbf{\bibinfo{volume}{60}},
+  \bibinfo{pages}{1545--1557} (\bibinfo{year}{1974}).
+
+\bibitem{McCammon:1977aa}
+\bibinfo{author}{McCammon, J.~A.}, \bibinfo{author}{Gelin, B.~R.} \&
+  \bibinfo{author}{Karplus, M.}
+\newblock \bibinfo{title}{Dynamics of folded proteins}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{267}},
+  \bibinfo{pages}{585--90} (\bibinfo{year}{1977}).
+
+\bibitem{Cooper:1984aa}
+\bibinfo{author}{Cooper, A.} \& \bibinfo{author}{Dryden, D.~T.}
+\newblock \bibinfo{title}{Allostery without conformational change. a plausible
+  model}.
+\newblock \emph{\bibinfo{journal}{Eur Biophys J}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{103--9}
+  (\bibinfo{year}{1984}).
+
+\bibitem{Popovych:2006aa}
+\bibinfo{author}{Popovych, N.}, \bibinfo{author}{Sun, S.},
+  \bibinfo{author}{Ebright, R.~H.} \& \bibinfo{author}{Kalodimos, C.~G.}
+\newblock \bibinfo{title}{Dynamically driven protein allostery}.
+\newblock \emph{\bibinfo{journal}{Nat Struct Mol Biol}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{831--8}
+  (\bibinfo{year}{2006}).
+
+\bibitem{Vendruscolo:2005aa}
+\bibinfo{author}{Vendruscolo, M.} \& \bibinfo{author}{Dobson, C.~M.}
+\newblock \bibinfo{title}{Towards complete descriptions of the free-energy
+  landscapes of proteins}.
+\newblock \emph{\bibinfo{journal}{Philos Trans A Math Phys Eng Sci}}
+  \textbf{\bibinfo{volume}{363}}, \bibinfo{pages}{433--452}
+  (\bibinfo{year}{2005}).
+
+\bibitem{Volkman:2001aa}
+\bibinfo{author}{Volkman, B.~F.}, \bibinfo{author}{Lipson, D.},
+  \bibinfo{author}{Wemmer, D.~E.} \& \bibinfo{author}{Kern, D.}
+\newblock \bibinfo{title}{Two-state allosteric behavior in a single-domain
+  signaling protein}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{291}},
+  \bibinfo{pages}{2429--33} (\bibinfo{year}{2001}).
+
+\bibitem{Yao:2008aa}
+\bibinfo{author}{Yao, X.}, \bibinfo{author}{Rosen, M.~K.} \&
+  \bibinfo{author}{Gardner, K.~H.}
+\newblock \bibinfo{title}{Estimation of the available free energy in a {LOV2-J}
+  alpha photoswitch}.
+\newblock \emph{\bibinfo{journal}{Nat Chem Biol}} \textbf{\bibinfo{volume}{4}},
+  \bibinfo{pages}{491--7} (\bibinfo{year}{2008}).
+
+\bibitem{Burgi:2001aa}
+\bibinfo{author}{B{\"u}rgi, R.}, \bibinfo{author}{Pitera, J.} \&
+  \bibinfo{author}{van Gunsteren, W.~F.}
+\newblock \bibinfo{title}{Assessing the effect of conformational averaging on
+  the measured values of observables}.
+\newblock \emph{\bibinfo{journal}{J Biomol {NMR}}}
+  \textbf{\bibinfo{volume}{19}}, \bibinfo{pages}{305--20}
+  (\bibinfo{year}{2001}).
+
+\bibitem{Lindorff-Larsen:2005aa}
+\bibinfo{author}{Lindorff-Larsen, K.}, \bibinfo{author}{Best, R.~B.},
+  \bibinfo{author}{Depristo, M.~A.}, \bibinfo{author}{Dobson, C.~M.} \&
+  \bibinfo{author}{Vendruscolo, M.}
+\newblock \bibinfo{title}{Simultaneous determination of protein structure and
+  dynamics}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{433}},
+  \bibinfo{pages}{128--32} (\bibinfo{year}{2005}).
+
+\bibitem{Guerry:2013aa}
+\bibinfo{author}{Guerry, P.} \emph{et~al.}
+\newblock \bibinfo{title}{Mapping the population of protein conformational
+  energy sub-states from {NMR} dipolar couplings}.
+\newblock \emph{\bibinfo{journal}{Angew Chem Int Ed Engl}}
+  \textbf{\bibinfo{volume}{52}}, \bibinfo{pages}{3181--5}
+  (\bibinfo{year}{2013}).
+
+\bibitem{Hunenberger:1995aa}
+\bibinfo{author}{H{\"u}nenberger, P.~H.}, \bibinfo{author}{Mark, A.~E.} \&
+  \bibinfo{author}{van Gunsteren, W.~F.}
+\newblock \bibinfo{title}{Fluctuation and cross-correlation analysis of protein
+  motions observed in nanosecond molecular dynamics simulations}.
+\newblock \emph{\bibinfo{journal}{J Mol Biol}} \textbf{\bibinfo{volume}{252}},
+  \bibinfo{pages}{492--503} (\bibinfo{year}{1995}).
+
+\bibitem{Ichiye:1991aa}
+\bibinfo{author}{Ichiye, T.} \& \bibinfo{author}{Karplus, M.}
+\newblock \bibinfo{title}{Collective motions in proteins: a covariance analysis
+  of atomic fluctuations in molecular dynamics and normal mode simulations}.
+\newblock \emph{\bibinfo{journal}{Proteins}} \textbf{\bibinfo{volume}{11}},
+  \bibinfo{pages}{205--17} (\bibinfo{year}{1991}).
+
+\bibitem{Lange:2006aa}
+\bibinfo{author}{Lange, O.~F.} \& \bibinfo{author}{Grubm{\"u}ller, H.}
+\newblock \bibinfo{title}{Generalized correlation for biomolecular dynamics}.
+\newblock \emph{\bibinfo{journal}{Proteins}} \textbf{\bibinfo{volume}{62}},
+  \bibinfo{pages}{1053--61} (\bibinfo{year}{2006}).
+
+\bibitem{McClendon:2014aa}
+\bibinfo{author}{McClendon, C.~L.}, \bibinfo{author}{Kornev, A.~P.},
+  \bibinfo{author}{Gilson, M.~K.} \& \bibinfo{author}{Taylor, S.~S.}
+\newblock \bibinfo{title}{Dynamic architecture of a protein kinase}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci USA}}
+  \textbf{\bibinfo{volume}{111}}, \bibinfo{pages}{4623--4631}
+  (\bibinfo{year}{2014}).
+
+\bibitem{Gasper:2012aa}
+\bibinfo{author}{Gasper, P.~M.}, \bibinfo{author}{Fuglestad, B.},
+  \bibinfo{author}{Komives, E.~A.}, \bibinfo{author}{Markwick, P. R.~L.} \&
+  \bibinfo{author}{McCammon, J.~A.}
+\newblock \bibinfo{title}{Allosteric networks in thrombin distinguish
+  procoagulant vs. anticoagulant activities}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci USA}}
+  \textbf{\bibinfo{volume}{109}}, \bibinfo{pages}{21216--22}
+  (\bibinfo{year}{2012}).
+
+\bibitem{Pandini:2012aa}
+\bibinfo{author}{Pandini, A.}, \bibinfo{author}{Fornili, A.},
+  \bibinfo{author}{Fraternali, F.} \& \bibinfo{author}{Kleinjung, J.}
+\newblock \bibinfo{title}{Detection of allosteric signal transmission by
+  information-theoretic analysis of protein dynamics}.
+\newblock \emph{\bibinfo{journal}{FASEB J}} \textbf{\bibinfo{volume}{26}},
+  \bibinfo{pages}{868--81} (\bibinfo{year}{2012}).
+
+\bibitem{Pandini:2013aa}
+\bibinfo{author}{Pandini, A.}, \bibinfo{author}{Fornili, A.},
+  \bibinfo{author}{Fraternali, F.} \& \bibinfo{author}{Kleinjung, J.}
+\newblock \bibinfo{title}{{GSATools}: analysis of allosteric communication and
+  functional local motions using a structural alphabet}.
+\newblock \emph{\bibinfo{journal}{Bioinformatics}}
+  \textbf{\bibinfo{volume}{29}}, \bibinfo{pages}{2053--5}
+  (\bibinfo{year}{2013}).
+
+\bibitem{Pandini:2010aa}
+\bibinfo{author}{Pandini, A.}, \bibinfo{author}{Fornili, A.} \&
+  \bibinfo{author}{Kleinjung, J.}
+\newblock \bibinfo{title}{Structural alphabets derived from attractors in
+  conformational space}.
+\newblock \emph{\bibinfo{journal}{BMC Bioinformatics}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{97} (\bibinfo{year}{2010}).
+
+\bibitem{Hashem:2017aa}
+\bibinfo{author}{Hashem, S.}, \bibinfo{author}{Tiberti, M.} \&
+  \bibinfo{author}{Fornili, A.}
+\newblock \bibinfo{title}{Allosteric modulation of cardiac myosin dynamics by
+  omecamtiv mecarbil}.
+\newblock \emph{\bibinfo{journal}{PLoS Comput Biol}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{1005--1026}
+  (\bibinfo{year}{2017}).
+
+\bibitem{Fornili:2013aa}
+\bibinfo{author}{Fornili, A.}, \bibinfo{author}{Pandini, A.},
+  \bibinfo{author}{Lu, H.-C.} \& \bibinfo{author}{Fraternali, F.}
+\newblock \bibinfo{title}{Specialized dynamical properties of promiscuous
+  residues revealed by simulated conformational ensembles}.
+\newblock \emph{\bibinfo{journal}{J Chem Theory Comput}}
+  \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{5127--5147}
+  (\bibinfo{year}{2013}).
+
+\bibitem{Motta:2018aa}
+\bibinfo{author}{Motta, S.}, \bibinfo{author}{Minici, C.},
+  \bibinfo{author}{Corrada, D.}, \bibinfo{author}{Bonati, L.} \&
+  \bibinfo{author}{Pandini, A.}
+\newblock \bibinfo{title}{Ligand-induced perturbation of the
+  {HIF-2$\alpha$:ARNT} dimer dynamics}.
+\newblock \emph{\bibinfo{journal}{PLoS Comput Biol}}
+  \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{1006--1021}
+  (\bibinfo{year}{2018}).
+
+\bibitem{Pandini:2015aa}
+\bibinfo{author}{Pandini, A.}, \bibinfo{author}{Kleinjung, J.},
+  \bibinfo{author}{Rasool, S.} \& \bibinfo{author}{Khan, S.}
+\newblock \bibinfo{title}{Coevolved mutations reveal distinct architectures for
+  two core proteins in the bacterial flagellar motor}.
+\newblock \emph{\bibinfo{journal}{PLoS One}} \textbf{\bibinfo{volume}{10}},
+  \bibinfo{pages}{14--24} (\bibinfo{year}{2015}).
+
+\bibitem{Pandini:2016aa}
+\bibinfo{author}{Pandini, A.}, \bibinfo{author}{Morcos, F.} \&
+  \bibinfo{author}{Khan, S.}
+\newblock \bibinfo{title}{The gearbox of the bacterial flagellar motor switch}.
+\newblock \emph{\bibinfo{journal}{Structure}} \textbf{\bibinfo{volume}{24}},
+  \bibinfo{pages}{1209--20} (\bibinfo{year}{2016}).
+
+\bibitem{Yang:2012aa}
+\bibinfo{author}{Yang, J.-S.}, \bibinfo{author}{Seo, S.~W.},
+  \bibinfo{author}{Jang, S.}, \bibinfo{author}{Jung, G.~Y.} \&
+  \bibinfo{author}{Kim, S.}
+\newblock \bibinfo{title}{Rational engineering of enzyme allosteric regulation
+  through sequence evolution analysis}.
+\newblock \emph{\bibinfo{journal}{PLoS Comput Biol}}
+  \textbf{\bibinfo{volume}{8}}, \bibinfo{pages}{1002--1012}
+  (\bibinfo{year}{2012}).
+
+\bibitem{Karplus:2003aa}
+\bibinfo{author}{Karplus, M.}
+\newblock \bibinfo{title}{Molecular dynamics of biological macromolecules: a
+  brief history and perspective}.
+\newblock \emph{\bibinfo{journal}{Biopolymers}} \textbf{\bibinfo{volume}{68}},
+  \bibinfo{pages}{350--8} (\bibinfo{year}{2003}).
+
+\bibitem{Martyna:1996aa}
+\bibinfo{author}{Martyna, G.~J.}, \bibinfo{author}{Tuckerman, M.~E.},
+  \bibinfo{author}{Tobias, D.~J.} \& \bibinfo{author}{Klein, M.~L.}
+\newblock \bibinfo{title}{Explicit reversible integrators for extended systems
+  dynamics}.
+\newblock \emph{\bibinfo{journal}{Mol Phys}} \textbf{\bibinfo{volume}{87}},
+  \bibinfo{pages}{1117--1157} (\bibinfo{year}{1996}).
+
+\bibitem{frenkel2001understanding}
+\bibinfo{author}{Frenkel, D.} \& \bibinfo{author}{Smit, B.}
+\newblock \bibinfo{title}{Understanding molecular dynamics simulations}.
+\newblock \emph{\bibinfo{journal}{Academic, New York}}  (\bibinfo{year}{2001}).
+
+\bibitem{nose1984unified}
+\bibinfo{author}{Nos{\'e}, S.}
+\newblock \bibinfo{title}{A unified formulation of the constant temperature
+  molecular dynamics methods}.
+\newblock \emph{\bibinfo{journal}{J Chem Phys}} \textbf{\bibinfo{volume}{81}},
+  \bibinfo{pages}{511--519} (\bibinfo{year}{1984}).
+
+\bibitem{hoover1985canonical}
+\bibinfo{author}{Hoover, W.~G.}
+\newblock \bibinfo{title}{Canonical dynamics: equilibrium phase-space
+  distributions}.
+\newblock \emph{\bibinfo{journal}{Physical review A}}
+  \textbf{\bibinfo{volume}{31}}, \bibinfo{pages}{1695} (\bibinfo{year}{1985}).
+
+\bibitem{Martyna:1994aa}
+\bibinfo{author}{Martyna, G.~J.}, \bibinfo{author}{Tobias, D.~J.} \&
+  \bibinfo{author}{Klein, M.~L.}
+\newblock \bibinfo{title}{Constant pressure molecular dynamics algorithms}.
+\newblock \emph{\bibinfo{journal}{J Chem Phys}} \textbf{\bibinfo{volume}{101}},
+  \bibinfo{pages}{4177--4189} (\bibinfo{year}{1994}).
+
+\bibitem{Oostenbrink:2004aa}
+\bibinfo{author}{Oostenbrink, C.}, \bibinfo{author}{Villa, A.},
+  \bibinfo{author}{Mark, A.~E.} \& \bibinfo{author}{van Gunsteren, W.~F.}
+\newblock \bibinfo{title}{A biomolecular force field based on the free enthalpy
+  of hydration and solvation: the gromos force-field parameter sets 53a5 and
+  53a6}.
+\newblock \emph{\bibinfo{journal}{J Comput Chem}}
+  \textbf{\bibinfo{volume}{25}}, \bibinfo{pages}{1656--76}
+  (\bibinfo{year}{2004}).
+
+\bibitem{Darden:1993aa}
+\bibinfo{author}{Darden, T.}, \bibinfo{author}{York, D.} \&
+  \bibinfo{author}{Pedersen, L.}
+\newblock \bibinfo{title}{Particle mesh {Ewald}: An {N$\cdot$log(N)} method for
+  {Ewald} sums in large systems}.
+\newblock \emph{\bibinfo{journal}{J Chem Phys}} \textbf{\bibinfo{volume}{98}},
+  \bibinfo{pages}{10089--10092} (\bibinfo{year}{1993}).
+
+\bibitem{Van-Der-Spoel:2005aa}
+\bibinfo{author}{Van Der~Spoel, D.} \emph{et~al.}
+\newblock \bibinfo{title}{Gromacs: fast, flexible, and free}.
+\newblock \emph{\bibinfo{journal}{J Comput Chem}}
+  \textbf{\bibinfo{volume}{26}}, \bibinfo{pages}{1701--18}
+  (\bibinfo{year}{2005}).
+
+\bibitem{berendsen1987missing}
+\bibinfo{author}{Berendsen, H.}, \bibinfo{author}{Grigera, J.} \&
+  \bibinfo{author}{Straatsma, T.}
+\newblock \bibinfo{title}{The missing term in effective pair potentials}.
+\newblock \emph{\bibinfo{journal}{J Phys Chem}} \textbf{\bibinfo{volume}{91}},
+  \bibinfo{pages}{6269--6271} (\bibinfo{year}{1987}).
+
+\bibitem{fiser2003modeller}
+\bibinfo{author}{Fiser, A.} \& \bibinfo{author}{{\v{S}}ali, A.}
+\newblock \bibinfo{title}{Modeller: generation and refinement of homology-based
+  protein structure models}.
+\newblock In \emph{\bibinfo{booktitle}{Methods in enzymology}}, vol.
+  \bibinfo{volume}{374}, \bibinfo{pages}{461--491}
+  (\bibinfo{publisher}{Elsevier}, \bibinfo{year}{2003}).
+
+\bibitem{Malde:2011aa}
+\bibinfo{author}{Malde, A.~K.} \emph{et~al.}
+\newblock \bibinfo{title}{An automated force field topology builder ({ATB}) and
+  repository: Version 1.0}.
+\newblock \emph{\bibinfo{journal}{J Chem Theory Comput}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{4026--37}
+  (\bibinfo{year}{2011}).
+
+\bibitem{Hess:2008ab}
+\bibinfo{author}{Hess, B.}
+\newblock \bibinfo{title}{{P-LINCS}: A parallel linear constraint solver for
+  molecular simulation}.
+\newblock \emph{\bibinfo{journal}{J Chem Theory Comput}}
+  \textbf{\bibinfo{volume}{4}}, \bibinfo{pages}{116--22}
+  (\bibinfo{year}{2008}).
+
+\bibitem{Miyamoto:1992aa}
+\bibinfo{author}{Miyamoto, S.} \& \bibinfo{author}{Kollman, P.~A.}
+\newblock \bibinfo{title}{Settle: An analytical version of the shake and rattle
+  algorithm for rigid water models}.
+\newblock \emph{\bibinfo{journal}{J Comput Chem}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{952--962}
+  (\bibinfo{year}{1992}).
+
+\bibitem{Robertson:2015aa}
+\bibinfo{author}{Robertson, M.~J.}, \bibinfo{author}{Tirado-Rives, J.} \&
+  \bibinfo{author}{Jorgensen, W.~L.}
+\newblock \bibinfo{title}{Improved peptide and protein torsional energetics
+  with the oplsaa force field}.
+\newblock \emph{\bibinfo{journal}{J Chem Theory Comput}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{3499--509}
+  (\bibinfo{year}{2015}).
+
+\bibitem{Daura:2001aa}
+\bibinfo{author}{Daura, X.} \emph{et~al.}
+\newblock \bibinfo{title}{The beta-peptide hairpin in solution: conformational
+  study of a beta-hexapeptide in methanol by {NMR} spectroscopy and md
+  simulation}.
+\newblock \emph{\bibinfo{journal}{J Am Chem Soc}}
+  \textbf{\bibinfo{volume}{123}}, \bibinfo{pages}{2393--404}
+  (\bibinfo{year}{2001}).
+
+\bibitem{Ruotolo:2008aa}
+\bibinfo{author}{Ruotolo, B.~T.}, \bibinfo{author}{Benesch, J. L.~P.},
+  \bibinfo{author}{Sandercock, A.~M.}, \bibinfo{author}{Hyung, S.-J.} \&
+  \bibinfo{author}{Robinson, C.~V.}
+\newblock \bibinfo{title}{Ion mobility-mass spectrometry analysis of large
+  protein complexes}.
+\newblock \emph{\bibinfo{journal}{Nat Protoc}} \textbf{\bibinfo{volume}{3}},
+  \bibinfo{pages}{1139--52} (\bibinfo{year}{2008}).
+
+\bibitem{Shvartsburg:2007aa}
+\bibinfo{author}{Shvartsburg, A.~A.}, \bibinfo{author}{Mashkevich, S.~V.},
+  \bibinfo{author}{Baker, E.~S.} \& \bibinfo{author}{Smith, R.~D.}
+\newblock \bibinfo{title}{Optimization of algorithms for ion mobility
+  calculations}.
+\newblock \emph{\bibinfo{journal}{J Phys Chem A}}
+  \textbf{\bibinfo{volume}{111}}, \bibinfo{pages}{2002--10}
+  (\bibinfo{year}{2007}).
+
+\bibitem{Hollenberg:1971aa}
+\bibinfo{author}{Hollenberg, P.~F.}, \bibinfo{author}{Flashner, M.} \&
+  \bibinfo{author}{Coon, M.~J.}
+\newblock \bibinfo{title}{Role of lysyl epsilon-amino groups in adenosine
+  diphosphate binding and catalytic activity of pyruvate kinase}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{246}},
+  \bibinfo{pages}{946--53} (\bibinfo{year}{1971}).
+
+\bibitem{Baici:2015}
+\bibinfo{author}{Baici, A.}
+\newblock \emph{\bibinfo{title}{Kinetics of Enzyme-Modifier Interactions -
+  Selected Topics in the Theory and Diagnosis of Inhibition and Activation
+  Mechanisms}} (\bibinfo{publisher}{Springer}, \bibinfo{year}{2015}).
+
+\bibitem{Reinhart:2004aa}
+\bibinfo{author}{Reinhart, G.~D.}
+\newblock \bibinfo{title}{Quantitative analysis and interpretation of
+  allosteric behavior}.
+\newblock \emph{\bibinfo{journal}{Methods Enzymol}}
+  \textbf{\bibinfo{volume}{380}}, \bibinfo{pages}{187--203}
+  (\bibinfo{year}{2004}).
+
+\bibitem{Pacholarz:2014aa}
+\bibinfo{author}{Pacholarz, K.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{Dynamics of intact {IgG} explored by drift-tube
+  ion-mobility mass spectrometry and molecular modeling}.
+\newblock \emph{\bibinfo{journal}{Angew Chem Int Ed Engl}}
+  \textbf{\bibinfo{volume}{53}}, \bibinfo{pages}{7765--9}
+  (\bibinfo{year}{2014}).
+
+\bibitem{Koler:1968aa}
+\bibinfo{author}{Koler, R.~D.} \& \bibinfo{author}{Vanbellinghen, P.}
+\newblock \bibinfo{title}{The mechanism of precursor modulation of human
+  pyruvate kinase i by fructose diphosphate}.
+\newblock \emph{\bibinfo{journal}{Adv Enzyme Regul}}
+  \textbf{\bibinfo{volume}{6}}, \bibinfo{pages}{127--42}
+  (\bibinfo{year}{1968}).
+
+\bibitem{Kuczenski:1971aa}
+\bibinfo{author}{Kuczenski, R.~T.} \& \bibinfo{author}{Suelter, C.~H.}
+\newblock \bibinfo{title}{Interactions of fructose 1,6-diphosphate, substrates,
+  and monovalent cations with yeast pyruvate kinase monitored by changes in
+  enzyme fluorescence}.
+\newblock \emph{\bibinfo{journal}{Biochemistry}} \textbf{\bibinfo{volume}{10}},
+  \bibinfo{pages}{2862--6} (\bibinfo{year}{1971}).
+
+\bibitem{bergmeyer1985methods}
+\bibinfo{author}{Bergmeyer, H.-U.}
+\newblock \emph{\bibinfo{title}{Methods of Enzymatic Analysis, Methods of
+  Enzymatic Analysis: Volume 8: Metabolites 3: Lipids, Amino Acids and Related
+  Compounds}}, vol.~\bibinfo{volume}{8} (\bibinfo{publisher}{Wiley-Blackwell},
+  \bibinfo{year}{1985}).
+
+\bibitem{Hulme:2010aa}
+\bibinfo{author}{Hulme, E.~C.} \& \bibinfo{author}{Trevethick, M.~A.}
+\newblock \bibinfo{title}{Ligand binding assays at equilibrium: validation and
+  interpretation}.
+\newblock \emph{\bibinfo{journal}{Br J Pharmacol}}
+  \textbf{\bibinfo{volume}{161}}, \bibinfo{pages}{1219--37}
+  (\bibinfo{year}{2010}).
+
+\bibitem{Pollard:2010aa}
+\bibinfo{author}{Pollard, T.~D.}
+\newblock \bibinfo{title}{A guide to simple and informative binding assays}.
+\newblock \emph{\bibinfo{journal}{Mol Biol Cell}}
+  \textbf{\bibinfo{volume}{21}}, \bibinfo{pages}{4061--7}
+  (\bibinfo{year}{2010}).
+
+\bibitem{Allali-Hassani:2009aa}
+\bibinfo{author}{Allali-Hassani, A.} \emph{et~al.}
+\newblock \bibinfo{title}{A survey of proteins encoded by non-synonymous single
+  nucleotide polymorphisms reveals a significant fraction with altered
+  stability and activity}.
+\newblock \emph{\bibinfo{journal}{Biochem J}} \textbf{\bibinfo{volume}{424}},
+  \bibinfo{pages}{15--26} (\bibinfo{year}{2009}).
+
+\bibitem{Gao:2013aa}
+\bibinfo{author}{Gao, X.} \emph{et~al.}
+\newblock \bibinfo{title}{Reciprocal regulation of protein kinase and pyruvate
+  kinase activities of pyruvate kinase m2 by growth signals}.
+\newblock \emph{\bibinfo{journal}{J Biol Chem}} \textbf{\bibinfo{volume}{288}},
+  \bibinfo{pages}{15971--9} (\bibinfo{year}{2013}).
+
+\bibitem{Jurica:1998aa}
+\bibinfo{author}{Jurica, M.~S.} \emph{et~al.}
+\newblock \bibinfo{title}{The allosteric regulation of pyruvate kinase by
+  fructose-1,6-bisphosphate}.
+\newblock \emph{\bibinfo{journal}{Structure}} \textbf{\bibinfo{volume}{6}},
+  \bibinfo{pages}{195--210} (\bibinfo{year}{1998}).
+
+\bibitem{Moreau:2007aa}
+\bibinfo{author}{Moreau, M.~J.}, \bibinfo{author}{McGeoch, A.~T.},
+  \bibinfo{author}{Lowe, A.~R.}, \bibinfo{author}{Itzhaki, L.~S.} \&
+  \bibinfo{author}{Bell, S.~D.}
+\newblock \bibinfo{title}{Atpase site architecture and helicase mechanism of an
+  archaeal mcm}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{28}},
+  \bibinfo{pages}{304--14} (\bibinfo{year}{2007}).
+
+\bibitem{Rzechorzek:2014aa}
+\bibinfo{author}{Rzechorzek, N.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{Structure of the hexameric {HerA ATPase} reveals a
+  mechanism of translocation-coupled {DNA}-end processing in archaea}.
+\newblock \emph{\bibinfo{journal}{Nat Commun}} \textbf{\bibinfo{volume}{5}},
+  \bibinfo{pages}{5506} (\bibinfo{year}{2014}).
+
+\bibitem{Barry:2009aa}
+\bibinfo{author}{Barry, E.~R.}, \bibinfo{author}{Lovett, J.~E.},
+  \bibinfo{author}{Costa, A.}, \bibinfo{author}{Lea, S.~M.} \&
+  \bibinfo{author}{Bell, S.~D.}
+\newblock \bibinfo{title}{Intersubunit allosteric communication mediated by a
+  conserved loop in the {MCM} helicase}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci USA}}
+  \textbf{\bibinfo{volume}{106}}, \bibinfo{pages}{1051--6}
+  (\bibinfo{year}{2009}).
+
+\bibitem{Crampton:2006aa}
+\bibinfo{author}{Crampton, D.~J.}, \bibinfo{author}{Mukherjee, S.} \&
+  \bibinfo{author}{Richardson, C.~C.}
+\newblock \bibinfo{title}{{DNA}-induced switch from independent to sequential
+  dttp hydrolysis in the bacteriophage t7 {DNA} helicase}.
+\newblock \emph{\bibinfo{journal}{Mol Cell}} \textbf{\bibinfo{volume}{21}},
+  \bibinfo{pages}{165--74} (\bibinfo{year}{2006}).
+
+\bibitem{Jurneczko:2011aa}
+\bibinfo{author}{Jurneczko, E.} \& \bibinfo{author}{Barran, P.~E.}
+\newblock \bibinfo{title}{How useful is ion mobility mass spectrometry for
+  structural biology? {T}he relationship between protein crystal structures and
+  their collision cross sections in the gas phase}.
+\newblock \emph{\bibinfo{journal}{Analyst}} \textbf{\bibinfo{volume}{136}},
+  \bibinfo{pages}{20--8} (\bibinfo{year}{2011}).
+
+\bibitem{Pacholarz:2017aa}
+\bibinfo{author}{Pacholarz, K.~J.} \emph{et~al.}
+\newblock \bibinfo{title}{Hybrid mass spectrometry approaches to determine how
+  {L}-histidine feedback regulates the enzyzme
+  {MtATP-P}hosphoribosyltransferase}.
+\newblock \emph{\bibinfo{journal}{Structure}} \textbf{\bibinfo{volume}{25}},
+  \bibinfo{pages}{730--738.e4} (\bibinfo{year}{2017}).
+
+\bibitem{Feliu:1976aa}
+\bibinfo{author}{Fel{\'\i}u, J.~E.} \& \bibinfo{author}{Sols, A.}
+\newblock \bibinfo{title}{Interconversion phenomena between two kinetic forms
+  of class a pyruvate kinase from ehrlich ascites tumor cells}.
+\newblock \emph{\bibinfo{journal}{Mol Cell Biochem}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{31--44}
+  (\bibinfo{year}{1976}).
+
+\bibitem{Durrant:2011aa}
+\bibinfo{author}{Durrant, J.~D.} \& \bibinfo{author}{McCammon, J.~A.}
+\newblock \bibinfo{title}{Molecular dynamics simulations and drug discovery}.
+\newblock \emph{\bibinfo{journal}{BMC Biol}} \textbf{\bibinfo{volume}{9}},
+  \bibinfo{pages}{71} (\bibinfo{year}{2011}).
+
+\bibitem{Guo:2016aa}
+\bibinfo{author}{Guo, J.} \& \bibinfo{author}{Zhou, H.-X.}
+\newblock \bibinfo{title}{Protein allostery and conformational dynamics}.
+\newblock \emph{\bibinfo{journal}{Chem Rev}} \textbf{\bibinfo{volume}{116}},
+  \bibinfo{pages}{6503--15} (\bibinfo{year}{2016}).
+
+\bibitem{Winger:2009aa}
+\bibinfo{author}{Winger, M.}, \bibinfo{author}{Trzesniak, D.},
+  \bibinfo{author}{Baron, R.} \& \bibinfo{author}{van Gunsteren, W.~F.}
+\newblock \bibinfo{title}{On using a too large integration time step in
+  molecular dynamics simulations of coarse-grained molecular models}.
+\newblock \emph{\bibinfo{journal}{Phys Chem Chem Phys}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{1934--41}
+  (\bibinfo{year}{2009}).
+
+\bibitem{Fornili:2012aa}
+\bibinfo{author}{Fornili, A.}, \bibinfo{author}{Autore, F.},
+  \bibinfo{author}{Chakroun, N.}, \bibinfo{author}{Martinez, P.} \&
+  \bibinfo{author}{Fraternali, F.}
+\newblock \bibinfo{title}{Protein-water interactions in md simulations:
+  Pops/popscomp solvent accessibility analysis, solvation forces and hydration
+  sites}.
+\newblock \emph{\bibinfo{journal}{Methods Mol Biol}}
+  \textbf{\bibinfo{volume}{819}}, \bibinfo{pages}{375--92}
+  (\bibinfo{year}{2012}).
+
+\bibitem{Capdevila:2017aa}
+\bibinfo{author}{Capdevila, D.~A.}, \bibinfo{author}{Braymer, J.~J.},
+  \bibinfo{author}{Edmonds, K.~A.}, \bibinfo{author}{Wu, H.} \&
+  \bibinfo{author}{Giedroc, D.~P.}
+\newblock \bibinfo{title}{Entropy redistribution controls allostery in a
+  metalloregulatory protein}.
+\newblock \emph{\bibinfo{journal}{Proc Natl Acad Sci USA}}
+  \textbf{\bibinfo{volume}{114}}, \bibinfo{pages}{4424--4429}
+  (\bibinfo{year}{2017}).
+
+\bibitem{Saavedra:2018aa}
+\bibinfo{author}{Saavedra, H.~G.}, \bibinfo{author}{Wrabl, J.~O.},
+  \bibinfo{author}{Anderson, J.~A.}, \bibinfo{author}{Li, J.} \&
+  \bibinfo{author}{Hilser, V.~J.}
+\newblock \bibinfo{title}{Dynamic allostery can drive cold adaptation in
+  enzymes}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{558}},
+  \bibinfo{pages}{324--328} (\bibinfo{year}{2018}).
+
+\bibitem{Tzeng:2012aa}
+\bibinfo{author}{Tzeng, S.-R.} \& \bibinfo{author}{Kalodimos, C.~G.}
+\newblock \bibinfo{title}{Protein activity regulation by conformational
+  entropy}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{488}},
+  \bibinfo{pages}{236--40} (\bibinfo{year}{2012}).
+
+\bibitem{Schlitter:1993aa}
+\bibinfo{author}{Schlitter, J.}
+\newblock \bibinfo{title}{Estimation of absolute and relative entropies of
+  macromolecules using the covariance matrix.}
+\newblock \emph{\bibinfo{journal}{Chem Phys Lett}}
+  \textbf{\bibinfo{volume}{215}}, \bibinfo{pages}{617--621}
+  (\bibinfo{year}{1993}).
+
+\bibitem{Craveur:2015aa}
+\bibinfo{author}{Craveur, P.} \emph{et~al.}
+\newblock \bibinfo{title}{Protein flexibility in the light of structural
+  alphabets}.
+\newblock \emph{\bibinfo{journal}{Front Mol Biosci}}
+  \textbf{\bibinfo{volume}{2}}, \bibinfo{pages}{20} (\bibinfo{year}{2015}).
+
+\bibitem{Wang:2001aa}
+\bibinfo{author}{Wang, Z.} \& \bibinfo{author}{Moult, J.}
+\newblock \bibinfo{title}{Snps, protein structure, and disease}.
+\newblock \emph{\bibinfo{journal}{Hum Mutat}} \textbf{\bibinfo{volume}{17}},
+  \bibinfo{pages}{263--70} (\bibinfo{year}{2001}).
+
+\bibitem{Rosenzweig:2014aa}
+\bibinfo{author}{Rosenzweig, R.} \& \bibinfo{author}{Kay, L.~E.}
+\newblock \bibinfo{title}{Bringing dynamic molecular machines into focus by
+  methyl-trosy {NMR}}.
+\newblock \emph{\bibinfo{journal}{Annu Rev Biochem}}
+  \textbf{\bibinfo{volume}{83}}, \bibinfo{pages}{291--315}
+  (\bibinfo{year}{2014}).
+
+\bibitem{Salvi:2016ab}
+\bibinfo{author}{Salvi, N.}, \bibinfo{author}{Abyzov, A.} \&
+  \bibinfo{author}{Blackledge, M.}
+\newblock \bibinfo{title}{Multi-timescale dynamics in intrinsically disordered
+  proteins from {NMR} relaxation and molecular simulation}.
+\newblock \emph{\bibinfo{journal}{J Phys Chem Lett}}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{2483--9}
+  (\bibinfo{year}{2016}).
+
+\bibitem{Markwick:2009aa}
+\bibinfo{author}{Markwick, P. R.~L.} \emph{et~al.}
+\newblock \bibinfo{title}{Toward a unified representation of protein structural
+  dynamics in solution}.
+\newblock \emph{\bibinfo{journal}{J Am Chem Soc}}
+  \textbf{\bibinfo{volume}{131}}, \bibinfo{pages}{16968--75}
+  (\bibinfo{year}{2009}).
+
+\bibitem{Schmidt:2017aa}
+\bibinfo{author}{Schmidt, C.} \emph{et~al.}
+\newblock \bibinfo{title}{Surface accessibility and dynamics of macromolecular
+  assemblies probed by covalent labeling mass spectrometry and integrative
+  modeling}.
+\newblock \emph{\bibinfo{journal}{Anal Chem}} \textbf{\bibinfo{volume}{89}},
+  \bibinfo{pages}{1459--1468} (\bibinfo{year}{2017}).
+
+\bibitem{Kern:2003aa}
+\bibinfo{author}{Kern, D.} \& \bibinfo{author}{Zuiderweg, E. R.~P.}
+\newblock \bibinfo{title}{The role of dynamics in allosteric regulation}.
+\newblock \emph{\bibinfo{journal}{Curr Opin Struct Biol}}
+  \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{748--57}
+  (\bibinfo{year}{2003}).
+
+\bibitem{Eisenmesser:2005aa}
+\bibinfo{author}{Eisenmesser, E.~Z.} \emph{et~al.}
+\newblock \bibinfo{title}{Intrinsic dynamics of an enzyme underlies catalysis}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{438}},
+  \bibinfo{pages}{117--21} (\bibinfo{year}{2005}).
+
+\bibitem{Salvi:2016aa}
+\bibinfo{author}{Salvi, N.}, \bibinfo{author}{Papadopoulos, E.},
+  \bibinfo{author}{Blackledge, M.} \& \bibinfo{author}{Wagner, G.}
+\newblock \bibinfo{title}{The role of dynamics and allostery in the inhibition
+  of the eif4e/eif4g translation initiation factor complex}.
+\newblock \emph{\bibinfo{journal}{Angew Chem Int Ed Engl}}
+  \textbf{\bibinfo{volume}{55}}, \bibinfo{pages}{7176--9}
+  (\bibinfo{year}{2016}).
+
+\bibitem{Micheletti:2000aa}
+\bibinfo{author}{Micheletti, C.}, \bibinfo{author}{Seno, F.} \&
+  \bibinfo{author}{Maritan, A.}
+\newblock \bibinfo{title}{Recurrent oligomers in proteins: an optimal scheme
+  reconciling accurate and concise backbone representations in automated
+  folding and design studies}.
+\newblock \emph{\bibinfo{journal}{Proteins}} \textbf{\bibinfo{volume}{40}},
+  \bibinfo{pages}{662--74} (\bibinfo{year}{2000}).
+
+\bibitem{Camproux:2004aa}
+\bibinfo{author}{Camproux, A.~C.}, \bibinfo{author}{Gautier, R.} \&
+  \bibinfo{author}{Tuff{\'e}ry, P.}
+\newblock \bibinfo{title}{A hidden markov model derived structural alphabet for
+  proteins}.
+\newblock \emph{\bibinfo{journal}{J Mol Biol}} \textbf{\bibinfo{volume}{339}},
+  \bibinfo{pages}{591--605} (\bibinfo{year}{2004}).
+
+\bibitem{ankerst1999optics}
+\bibinfo{author}{Ankerst, M.}, \bibinfo{author}{Breunig, M.~M.},
+  \bibinfo{author}{Kriegel, H.-P.} \& \bibinfo{author}{Sander, J.}
+\newblock \bibinfo{title}{Optics: ordering points to identify the clustering
+  structure}.
+\newblock In \emph{\bibinfo{booktitle}{ACM Sigmod record}},
+  vol.~\bibinfo{volume}{28}, \bibinfo{pages}{49--60}
+  (\bibinfo{organization}{ACM}, \bibinfo{year}{1999}).
+
+\bibitem{Freiburger:2014aa}
+\bibinfo{author}{Freiburger, L.} \emph{et~al.}
+\newblock \bibinfo{title}{Substrate-dependent switching of the allosteric
+  binding mechanism of a dimeric enzyme}.
+\newblock \emph{\bibinfo{journal}{Nat Chem Biol}}
+  \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{937--42}
+  (\bibinfo{year}{2014}).
+
+\bibitem{Hewitt:2016aa}
+\bibinfo{author}{Hewitt, W.~M.} \emph{et~al.}
+\newblock \bibinfo{title}{Insights into the allosteric inhibition of the sumo
+  e2 enzyme ubc9}.
+\newblock \emph{\bibinfo{journal}{Angew Chem Int Ed Engl}}
+  \textbf{\bibinfo{volume}{55}}, \bibinfo{pages}{5703--7}
+  (\bibinfo{year}{2016}).
+
+\bibitem{Webb:2015aa}
+\bibinfo{author}{Webb, B.~A.} \emph{et~al.}
+\newblock \bibinfo{title}{Structures of human phosphofructokinase-1 and atomic
+  basis of cancer-associated mutations}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{523}},
+  \bibinfo{pages}{111--4} (\bibinfo{year}{2015}).
+
+\bibitem{Lockless:1999aa}
+\bibinfo{author}{Lockless, S.~W.} \& \bibinfo{author}{Ranganathan, R.}
+\newblock \bibinfo{title}{Evolutionarily conserved pathways of energetic
+  connectivity in protein families}.
+\newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{286}},
+  \bibinfo{pages}{295--9} (\bibinfo{year}{1999}).
+
+\bibitem{Tesileanu:2015aa}
+\bibinfo{author}{Te{\c s}ileanu, T.}, \bibinfo{author}{Colwell, L.~J.} \&
+  \bibinfo{author}{Leibler, S.}
+\newblock \bibinfo{title}{Protein sectors: statistical coupling analysis versus
+  conservation}.
+\newblock \emph{\bibinfo{journal}{PLoS Comput Biol}}
+  \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{1004--1019}
+  (\bibinfo{year}{2015}).
+
+\bibitem{Guarnera:2016aa}
+\bibinfo{author}{Guarnera, E.} \& \bibinfo{author}{Berezovsky, I.~N.}
+\newblock \bibinfo{title}{Structure-based statistical mechanical model accounts
+  for the causality and energetics of allosteric communication}.
+\newblock \emph{\bibinfo{journal}{PLoS Comput Biol}}
+  \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{1004--1028}
+  (\bibinfo{year}{2016}).
+
+\bibitem{Guarnera:2017aa}
+\bibinfo{author}{Guarnera, E.}, \bibinfo{author}{Tan, Z.~W.},
+  \bibinfo{author}{Zheng, Z.} \& \bibinfo{author}{Berezovsky, I.~N.}
+\newblock \bibinfo{title}{Allosigma: allosteric signaling and mutation analysis
+  server}.
+\newblock \emph{\bibinfo{journal}{Bioinformatics}}
+  \textbf{\bibinfo{volume}{33}}, \bibinfo{pages}{3996--3998}
+  (\bibinfo{year}{2017}).
+
+\bibitem{Tee:2018aa}
+\bibinfo{author}{Tee, W.-V.}, \bibinfo{author}{Guarnera, E.} \&
+  \bibinfo{author}{Berezovsky, I.~N.}
+\newblock \bibinfo{title}{Reversing allosteric communication: From detecting
+  allosteric sites to inducing and tuning targeted allosteric response}.
+\newblock \emph{\bibinfo{journal}{PLoS Comput Biol}}
+  \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{1006--1028}
+  (\bibinfo{year}{2018}).
+
+\bibitem{Juan:2013aa}
+\bibinfo{author}{de~Juan, D.}, \bibinfo{author}{Pazos, F.} \&
+  \bibinfo{author}{Valencia, A.}
+\newblock \bibinfo{title}{Emerging methods in protein co-evolution}.
+\newblock \emph{\bibinfo{journal}{Nat Rev Genet}}
+  \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{249--61}
+  (\bibinfo{year}{2013}).
+
+\bibitem{McLaughlin:2012aa}
+\bibinfo{author}{McLaughlin, R.~N., Jr}, \bibinfo{author}{Poelwijk, F.~J.},
+  \bibinfo{author}{Raman, A.}, \bibinfo{author}{Gosal, W.~S.} \&
+  \bibinfo{author}{Ranganathan, R.}
+\newblock \bibinfo{title}{The spatial architecture of protein function and
+  adaptation}.
+\newblock \emph{\bibinfo{journal}{Nature}} \textbf{\bibinfo{volume}{491}},
+  \bibinfo{pages}{138--42} (\bibinfo{year}{2012}).
+
+\bibitem{Reynolds:2011aa}
+\bibinfo{author}{Reynolds, K.~A.}, \bibinfo{author}{McLaughlin, R.~N.} \&
+  \bibinfo{author}{Ranganathan, R.}
+\newblock \bibinfo{title}{Hot spots for allosteric regulation on protein
+  surfaces}.
+\newblock \emph{\bibinfo{journal}{Cell}} \textbf{\bibinfo{volume}{147}},
+  \bibinfo{pages}{1564--75} (\bibinfo{year}{2011}).
+
+\end{thebibliography}
